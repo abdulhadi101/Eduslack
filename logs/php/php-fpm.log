@@ -1,0 +1,18 @@
+[27-Jun-2020 16:21:41] NOTICE: fpm is running, pid 10232
+[27-Jun-2020 16:21:41] NOTICE: ready to handle connections
+[27-Jun-2020 16:35:13] ERROR: Another FPM instance seems to already listen on /home/abdulhadi/.config/Local/run/dBNKsYaLq/php/php-fpm.socket
+[27-Jun-2020 16:35:13] ERROR: FPM initialization failed
+[27-Jun-2020 16:35:14] ERROR: Another FPM instance seems to already listen on /home/abdulhadi/.config/Local/run/dBNKsYaLq/php/php-fpm.socket
+[27-Jun-2020 16:35:14] ERROR: FPM initialization failed
+[27-Jun-2020 16:35:14] ERROR: Another FPM instance seems to already listen on /home/abdulhadi/.config/Local/run/dBNKsYaLq/php/php-fpm.socket
+[27-Jun-2020 16:35:14] ERROR: FPM initialization failed
+[27-Jun-2020 16:35:15] ERROR: Another FPM instance seems to already listen on /home/abdulhadi/.config/Local/run/dBNKsYaLq/php/php-fpm.socket
+[27-Jun-2020 16:35:15] ERROR: FPM initialization failed
+[27-Jun-2020 16:38:06] ERROR: Another FPM instance seems to already listen on /home/abdulhadi/.config/Local/run/dBNKsYaLq/php/php-fpm.socket
+[27-Jun-2020 16:38:06] ERROR: FPM initialization failed
+[27-Jun-2020 16:38:06] ERROR: Another FPM instance seems to already listen on /home/abdulhadi/.config/Local/run/dBNKsYaLq/php/php-fpm.socket
+[27-Jun-2020 16:38:06] ERROR: FPM initialization failed
+[27-Jun-2020 16:38:07] ERROR: Another FPM instance seems to already listen on /home/abdulhadi/.config/Local/run/dBNKsYaLq/php/php-fpm.socket
+[27-Jun-2020 16:38:07] ERROR: FPM initialization failed
+[27-Jun-2020 16:38:07] ERROR: Another FPM instance seems to already listen on /home/abdulhadi/.config/Local/run/dBNKsYaLq/php/php-fpm.socket
+[27-Jun-2020 16:38:07] ERROR: FPM initialization failed

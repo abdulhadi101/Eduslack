@@ -16,3 +16,5 @@
 [27-Jun-2020 16:38:07] ERROR: FPM initialization failed
 [27-Jun-2020 16:38:07] ERROR: Another FPM instance seems to already listen on /home/abdulhadi/.config/Local/run/dBNKsYaLq/php/php-fpm.socket
 [27-Jun-2020 16:38:07] ERROR: FPM initialization failed
+[29-Jun-2020 10:20:31] NOTICE: fpm is running, pid 7084
+[29-Jun-2020 10:20:31] NOTICE: ready to handle connections

@@ -76,3 +76,692 @@
 [29-Jun-2020 09:50:44 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/abdulhadi/Local Sites/eduslack/app/public/wp-content/themes/eduslack-theme/functions.php on line 6
 [29-Jun-2020 09:51:29 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/abdulhadi/Local Sites/eduslack/app/public/wp-content/themes/eduslack-theme/functions.php on line 8
 [29-Jun-2020 09:51:31 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/abdulhadi/Local Sites/eduslack/app/public/wp-content/themes/eduslack-theme/functions.php on line 8
+[29-Jun-2020 16:03:01 UTC] PHP Warning:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/forums/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in /home/abdulhadi/Local Sites/eduslack/app/public/wp-includes/update.php on line 162
+[29-Jun-2020 16:03:01 UTC] PHP Stack trace:
+[29-Jun-2020 16:03:01 UTC] PHP   1. {main}() /home/abdulhadi/Local Sites/eduslack/app/public/wp-cron.php:0
+[29-Jun-2020 16:03:01 UTC] PHP   2. do_action_ref_array() /home/abdulhadi/Local Sites/eduslack/app/public/wp-cron.php:138
+[29-Jun-2020 16:03:01 UTC] PHP   3. WP_Hook->do_action() /home/abdulhadi/Local Sites/eduslack/app/public/wp-includes/plugin.php:544
+[29-Jun-2020 16:03:01 UTC] PHP   4. WP_Hook->apply_filters() /home/abdulhadi/Local Sites/eduslack/app/public/wp-includes/class-wp-hook.php:311
+[29-Jun-2020 16:03:01 UTC] PHP   5. wp_version_check() /home/abdulhadi/Local Sites/eduslack/app/public/wp-includes/class-wp-hook.php:287
+[29-Jun-2020 16:03:01 UTC] PHP   6. trigger_error() /home/abdulhadi/Local Sites/eduslack/app/public/wp-includes/update.php:162
+[29-Jun-2020 16:03:01 UTC] PHP Warning:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/forums/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in /home/abdulhadi/Local Sites/eduslack/app/public/wp-includes/update.php on line 388
+[29-Jun-2020 16:03:01 UTC] PHP Stack trace:
+[29-Jun-2020 16:03:01 UTC] PHP   1. {main}() /home/abdulhadi/Local Sites/eduslack/app/public/wp-cron.php:0
+[29-Jun-2020 16:03:01 UTC] PHP   2. do_action_ref_array() /home/abdulhadi/Local Sites/eduslack/app/public/wp-cron.php:138
+[29-Jun-2020 16:03:01 UTC] PHP   3. WP_Hook->do_action() /home/abdulhadi/Local Sites/eduslack/app/public/wp-includes/plugin.php:544
+[29-Jun-2020 16:03:01 UTC] PHP   4. WP_Hook->apply_filters() /home/abdulhadi/Local Sites/eduslack/app/public/wp-includes/class-wp-hook.php:311
+[29-Jun-2020 16:03:01 UTC] PHP   5. wp_update_plugins() /home/abdulhadi/Local Sites/eduslack/app/public/wp-includes/class-wp-hook.php:287
+[29-Jun-2020 16:03:01 UTC] PHP   6. trigger_error() /home/abdulhadi/Local Sites/eduslack/app/public/wp-includes/update.php:388
+[29-Jun-2020 16:03:01 UTC] PHP Warning:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/forums/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in /home/abdulhadi/Local Sites/eduslack/app/public/wp-includes/update.php on line 578
+[29-Jun-2020 16:03:01 UTC] PHP Stack trace:
+[29-Jun-2020 16:03:01 UTC] PHP   1. {main}() /home/abdulhadi/Local Sites/eduslack/app/public/wp-cron.php:0
+[29-Jun-2020 16:03:01 UTC] PHP   2. do_action_ref_array() /home/abdulhadi/Local Sites/eduslack/app/public/wp-cron.php:138
+[29-Jun-2020 16:03:01 UTC] PHP   3. WP_Hook->do_action() /home/abdulhadi/Local Sites/eduslack/app/public/wp-includes/plugin.php:544
+[29-Jun-2020 16:03:01 UTC] PHP   4. WP_Hook->apply_filters() /home/abdulhadi/Local Sites/eduslack/app/public/wp-includes/class-wp-hook.php:311
+[29-Jun-2020 16:03:01 UTC] PHP   5. wp_update_themes() /home/abdulhadi/Local Sites/eduslack/app/public/wp-includes/class-wp-hook.php:287
+[29-Jun-2020 16:03:01 UTC] PHP   6. trigger_error() /home/abdulhadi/Local Sites/eduslack/app/public/wp-includes/update.php:578
+[29-Jun-2020 19:33:27 UTC] PHP Parse error:  syntax error, unexpected 'wp_enqueue_style' (T_STRING) in /home/abdulhadi/Local Sites/eduslack/app/public/wp-content/themes/eduslack-theme/functions.php on line 6
+[29-Jun-2020 19:33:41 UTC] PHP Parse error:  syntax error, unexpected 'wp_enqueue_style' (T_STRING) in /home/abdulhadi/Local Sites/eduslack/app/public/wp-content/themes/eduslack-theme/functions.php on line 6
+[29-Jun-2020 19:34:21 UTC] PHP Parse error:  syntax error, unexpected 'wp_enqueue_style' (T_STRING) in /home/abdulhadi/Local Sites/eduslack/app/public/wp-content/themes/eduslack-theme/functions.php on line 6
+[29-Jun-2020 19:34:22 UTC] PHP Parse error:  syntax error, unexpected 'wp_enqueue_style' (T_STRING) in /home/abdulhadi/Local Sites/eduslack/app/public/wp-content/themes/eduslack-theme/functions.php on line 6
+[29-Jun-2020 20:11:47 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/abdulhadi/Local Sites/eduslack/app/public/wp-content/themes/eduslack-theme/functions.php on line 16
+[29-Jun-2020 20:12:51 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/abdulhadi/Local Sites/eduslack/app/public/wp-content/themes/eduslack-theme/functions.php on line 16
+[29-Jun-2020 20:12:57 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/abdulhadi/Local Sites/eduslack/app/public/wp-content/themes/eduslack-theme/functions.php on line 16
+[01-Jul-2020 08:07:33 UTC] PHP Warning:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/forums/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in /home/abdulhadi/Local Sites/eduslack/app/public/wp-includes/update.php on line 162
+[01-Jul-2020 08:07:33 UTC] PHP Stack trace:
+[01-Jul-2020 08:07:33 UTC] PHP   1. {main}() /home/abdulhadi/Local Sites/eduslack/app/public/wp-cron.php:0
+[01-Jul-2020 08:07:33 UTC] PHP   2. do_action_ref_array() /home/abdulhadi/Local Sites/eduslack/app/public/wp-cron.php:138
+[01-Jul-2020 08:07:33 UTC] PHP   3. WP_Hook->do_action() /home/abdulhadi/Local Sites/eduslack/app/public/wp-includes/plugin.php:544
+[01-Jul-2020 08:07:33 UTC] PHP   4. WP_Hook->apply_filters() /home/abdulhadi/Local Sites/eduslack/app/public/wp-includes/class-wp-hook.php:311
+[01-Jul-2020 08:07:33 UTC] PHP   5. wp_version_check() /home/abdulhadi/Local Sites/eduslack/app/public/wp-includes/class-wp-hook.php:287
+[01-Jul-2020 08:07:33 UTC] PHP   6. trigger_error() /home/abdulhadi/Local Sites/eduslack/app/public/wp-includes/update.php:162
+[01-Jul-2020 08:07:36 UTC] PHP Warning:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/forums/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in /home/abdulhadi/Local Sites/eduslack/app/public/wp-includes/update.php on line 578
+[01-Jul-2020 08:07:36 UTC] PHP Stack trace:
+[01-Jul-2020 08:07:36 UTC] PHP   1. {main}() /home/abdulhadi/Local Sites/eduslack/app/public/wp-cron.php:0
+[01-Jul-2020 08:07:36 UTC] PHP   2. do_action_ref_array() /home/abdulhadi/Local Sites/eduslack/app/public/wp-cron.php:138
+[01-Jul-2020 08:07:36 UTC] PHP   3. WP_Hook->do_action() /home/abdulhadi/Local Sites/eduslack/app/public/wp-includes/plugin.php:544
+[01-Jul-2020 08:07:36 UTC] PHP   4. WP_Hook->apply_filters() /home/abdulhadi/Local Sites/eduslack/app/public/wp-includes/class-wp-hook.php:311
+[01-Jul-2020 08:07:36 UTC] PHP   5. wp_update_themes() /home/abdulhadi/Local Sites/eduslack/app/public/wp-includes/class-wp-hook.php:287
+[01-Jul-2020 08:07:36 UTC] PHP   6. trigger_error() /home/abdulhadi/Local Sites/eduslack/app/public/wp-includes/update.php:578
+[01-Jul-2020 08:31:28 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/abdulhadi/Local Sites/eduslack/app/public/wp-content/themes/eduslack-theme/page.php on line 27
+[01-Jul-2020 08:52:15 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function doubleMe() in /home/abdulhadi/Local Sites/eduslack/app/public/wp-content/themes/eduslack-theme/index.php:13
+Stack trace:
+#0 /home/abdulhadi/Local Sites/eduslack/app/public/wp-includes/template-loader.php(106): include()
+#1 /home/abdulhadi/Local Sites/eduslack/app/public/wp-blog-header.php(19): require_once('/home/abdulhadi...')
+#2 /home/abdulhadi/Local Sites/eduslack/app/public/index.php(17): require('/home/abdulhadi...')
+#3 {main}
+  thrown in /home/abdulhadi/Local Sites/eduslack/app/public/wp-content/themes/eduslack-theme/index.php on line 13
+[01-Jul-2020 08:52:22 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function doubleMe() in /home/abdulhadi/Local Sites/eduslack/app/public/wp-content/themes/eduslack-theme/index.php:13
+Stack trace:
+#0 /home/abdulhadi/Local Sites/eduslack/app/public/wp-includes/template-loader.php(106): include()
+#1 /home/abdulhadi/Local Sites/eduslack/app/public/wp-blog-header.php(19): require_once('/home/abdulhadi...')
+#2 /home/abdulhadi/Local Sites/eduslack/app/public/index.php(17): require('/home/abdulhadi...')
+#3 {main}
+  thrown in /home/abdulhadi/Local Sites/eduslack/app/public/wp-content/themes/eduslack-theme/index.php on line 13
+[01-Jul-2020 19:53:21 UTC] PHP Warning:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/forums/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in /home/abdulhadi/Local Sites/eduslack/app/public/wp-includes/update.php on line 162
+[01-Jul-2020 19:53:21 UTC] PHP Stack trace:
+[01-Jul-2020 19:53:21 UTC] PHP   1. {main}() /home/abdulhadi/Local Sites/eduslack/app/public/wp-cron.php:0
+[01-Jul-2020 19:53:21 UTC] PHP   2. do_action_ref_array() /home/abdulhadi/Local Sites/eduslack/app/public/wp-cron.php:138
+[01-Jul-2020 19:53:21 UTC] PHP   3. WP_Hook->do_action() /home/abdulhadi/Local Sites/eduslack/app/public/wp-includes/plugin.php:544
+[01-Jul-2020 19:53:21 UTC] PHP   4. WP_Hook->apply_filters() /home/abdulhadi/Local Sites/eduslack/app/public/wp-includes/class-wp-hook.php:311
+[01-Jul-2020 19:53:21 UTC] PHP   5. wp_version_check() /home/abdulhadi/Local Sites/eduslack/app/public/wp-includes/class-wp-hook.php:287
+[01-Jul-2020 19:53:21 UTC] PHP   6. trigger_error() /home/abdulhadi/Local Sites/eduslack/app/public/wp-includes/update.php:162
+[01-Jul-2020 19:53:21 UTC] PHP Warning:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/forums/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in /home/abdulhadi/Local Sites/eduslack/app/public/wp-includes/update.php on line 388
+[01-Jul-2020 19:53:21 UTC] PHP Stack trace:
+[01-Jul-2020 19:53:21 UTC] PHP   1. {main}() /home/abdulhadi/Local Sites/eduslack/app/public/wp-cron.php:0
+[01-Jul-2020 19:53:21 UTC] PHP   2. do_action_ref_array() /home/abdulhadi/Local Sites/eduslack/app/public/wp-cron.php:138
+[01-Jul-2020 19:53:21 UTC] PHP   3. WP_Hook->do_action() /home/abdulhadi/Local Sites/eduslack/app/public/wp-includes/plugin.php:544
+[01-Jul-2020 19:53:21 UTC] PHP   4. WP_Hook->apply_filters() /home/abdulhadi/Local Sites/eduslack/app/public/wp-includes/class-wp-hook.php:311
+[01-Jul-2020 19:53:21 UTC] PHP   5. wp_update_plugins() /home/abdulhadi/Local Sites/eduslack/app/public/wp-includes/class-wp-hook.php:287
+[01-Jul-2020 19:53:21 UTC] PHP   6. trigger_error() /home/abdulhadi/Local Sites/eduslack/app/public/wp-includes/update.php:388
+[01-Jul-2020 19:53:22 UTC] PHP Warning:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/forums/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in /home/abdulhadi/Local Sites/eduslack/app/public/wp-includes/update.php on line 578
+[01-Jul-2020 19:53:22 UTC] PHP Stack trace:
+[01-Jul-2020 19:53:22 UTC] PHP   1. {main}() /home/abdulhadi/Local Sites/eduslack/app/public/wp-cron.php:0
+[01-Jul-2020 19:53:22 UTC] PHP   2. do_action_ref_array() /home/abdulhadi/Local Sites/eduslack/app/public/wp-cron.php:138
+[01-Jul-2020 19:53:22 UTC] PHP   3. WP_Hook->do_action() /home/abdulhadi/Local Sites/eduslack/app/public/wp-includes/plugin.php:544
+[01-Jul-2020 19:53:22 UTC] PHP   4. WP_Hook->apply_filters() /home/abdulhadi/Local Sites/eduslack/app/public/wp-includes/class-wp-hook.php:311
+[01-Jul-2020 19:53:22 UTC] PHP   5. wp_update_themes() /home/abdulhadi/Local Sites/eduslack/app/public/wp-includes/class-wp-hook.php:287
+[01-Jul-2020 19:53:22 UTC] PHP   6. trigger_error() /home/abdulhadi/Local Sites/eduslack/app/public/wp-includes/update.php:578
+[07-Jul-2020 17:01:59 UTC] PHP Warning:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/forums/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in /home/abdulhadi/Local Sites/eduslack/app/public/wp-includes/update.php on line 162
+[07-Jul-2020 17:01:59 UTC] PHP Stack trace:
+[07-Jul-2020 17:01:59 UTC] PHP   1. {main}() /home/abdulhadi/Local Sites/eduslack/app/public/wp-cron.php:0
+[07-Jul-2020 17:01:59 UTC] PHP   2. do_action_ref_array() /home/abdulhadi/Local Sites/eduslack/app/public/wp-cron.php:138
+[07-Jul-2020 17:01:59 UTC] PHP   3. WP_Hook->do_action() /home/abdulhadi/Local Sites/eduslack/app/public/wp-includes/plugin.php:544
+[07-Jul-2020 17:01:59 UTC] PHP   4. WP_Hook->apply_filters() /home/abdulhadi/Local Sites/eduslack/app/public/wp-includes/class-wp-hook.php:311
+[07-Jul-2020 17:01:59 UTC] PHP   5. wp_version_check() /home/abdulhadi/Local Sites/eduslack/app/public/wp-includes/class-wp-hook.php:287
+[07-Jul-2020 17:01:59 UTC] PHP   6. trigger_error() /home/abdulhadi/Local Sites/eduslack/app/public/wp-includes/update.php:162
+[07-Jul-2020 17:02:00 UTC] PHP Warning:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/forums/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in /home/abdulhadi/Local Sites/eduslack/app/public/wp-includes/update.php on line 388
+[07-Jul-2020 17:02:00 UTC] PHP Stack trace:
+[07-Jul-2020 17:02:00 UTC] PHP   1. {main}() /home/abdulhadi/Local Sites/eduslack/app/public/wp-cron.php:0
+[07-Jul-2020 17:02:00 UTC] PHP   2. do_action_ref_array() /home/abdulhadi/Local Sites/eduslack/app/public/wp-cron.php:138
+[07-Jul-2020 17:02:00 UTC] PHP   3. WP_Hook->do_action() /home/abdulhadi/Local Sites/eduslack/app/public/wp-includes/plugin.php:544
+[07-Jul-2020 17:02:00 UTC] PHP   4. WP_Hook->apply_filters() /home/abdulhadi/Local Sites/eduslack/app/public/wp-includes/class-wp-hook.php:311
+[07-Jul-2020 17:02:00 UTC] PHP   5. wp_update_plugins() /home/abdulhadi/Local Sites/eduslack/app/public/wp-includes/class-wp-hook.php:287
+[07-Jul-2020 17:02:00 UTC] PHP   6. trigger_error() /home/abdulhadi/Local Sites/eduslack/app/public/wp-includes/update.php:388
+[07-Jul-2020 17:02:00 UTC] PHP Warning:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/forums/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in /home/abdulhadi/Local Sites/eduslack/app/public/wp-includes/update.php on line 578
+[07-Jul-2020 17:02:00 UTC] PHP Stack trace:
+[07-Jul-2020 17:02:00 UTC] PHP   1. {main}() /home/abdulhadi/Local Sites/eduslack/app/public/wp-cron.php:0
+[07-Jul-2020 17:02:00 UTC] PHP   2. do_action_ref_array() /home/abdulhadi/Local Sites/eduslack/app/public/wp-cron.php:138
+[07-Jul-2020 17:02:00 UTC] PHP   3. WP_Hook->do_action() /home/abdulhadi/Local Sites/eduslack/app/public/wp-includes/plugin.php:544
+[07-Jul-2020 17:02:00 UTC] PHP   4. WP_Hook->apply_filters() /home/abdulhadi/Local Sites/eduslack/app/public/wp-includes/class-wp-hook.php:311
+[07-Jul-2020 17:02:00 UTC] PHP   5. wp_update_themes() /home/abdulhadi/Local Sites/eduslack/app/public/wp-includes/class-wp-hook.php:287
+[07-Jul-2020 17:02:00 UTC] PHP   6. trigger_error() /home/abdulhadi/Local Sites/eduslack/app/public/wp-includes/update.php:578
+[08-Jul-2020 22:02:31 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/abdulhadi/Local Sites/eduslack/app/public/wp-content/themes/eduslack-theme/page.php on line 38
+[21-Jul-2020 19:05:20 UTC] PHP Warning:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/forums/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in /home/abdulhadi/Local Sites/eduslack/app/public/wp-includes/update.php on line 162
+[21-Jul-2020 19:05:20 UTC] PHP Stack trace:
+[21-Jul-2020 19:05:20 UTC] PHP   1. {main}() /home/abdulhadi/Local Sites/eduslack/app/public/wp-cron.php:0
+[21-Jul-2020 19:05:20 UTC] PHP   2. do_action_ref_array() /home/abdulhadi/Local Sites/eduslack/app/public/wp-cron.php:138
+[21-Jul-2020 19:05:20 UTC] PHP   3. WP_Hook->do_action() /home/abdulhadi/Local Sites/eduslack/app/public/wp-includes/plugin.php:544
+[21-Jul-2020 19:05:20 UTC] PHP   4. WP_Hook->apply_filters() /home/abdulhadi/Local Sites/eduslack/app/public/wp-includes/class-wp-hook.php:311
+[21-Jul-2020 19:05:20 UTC] PHP   5. wp_version_check() /home/abdulhadi/Local Sites/eduslack/app/public/wp-includes/class-wp-hook.php:287
+[21-Jul-2020 19:05:20 UTC] PHP   6. trigger_error() /home/abdulhadi/Local Sites/eduslack/app/public/wp-includes/update.php:162
+[21-Jul-2020 19:05:20 UTC] PHP Warning:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/forums/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in /home/abdulhadi/Local Sites/eduslack/app/public/wp-includes/update.php on line 388
+[21-Jul-2020 19:05:20 UTC] PHP Stack trace:
+[21-Jul-2020 19:05:20 UTC] PHP   1. {main}() /home/abdulhadi/Local Sites/eduslack/app/public/wp-cron.php:0
+[21-Jul-2020 19:05:20 UTC] PHP   2. do_action_ref_array() /home/abdulhadi/Local Sites/eduslack/app/public/wp-cron.php:138
+[21-Jul-2020 19:05:20 UTC] PHP   3. WP_Hook->do_action() /home/abdulhadi/Local Sites/eduslack/app/public/wp-includes/plugin.php:544
+[21-Jul-2020 19:05:20 UTC] PHP   4. WP_Hook->apply_filters() /home/abdulhadi/Local Sites/eduslack/app/public/wp-includes/class-wp-hook.php:311
+[21-Jul-2020 19:05:20 UTC] PHP   5. wp_update_plugins() /home/abdulhadi/Local Sites/eduslack/app/public/wp-includes/class-wp-hook.php:287
+[21-Jul-2020 19:05:20 UTC] PHP   6. trigger_error() /home/abdulhadi/Local Sites/eduslack/app/public/wp-includes/update.php:388
+[21-Jul-2020 19:05:21 UTC] PHP Warning:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/forums/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in /home/abdulhadi/Local Sites/eduslack/app/public/wp-includes/update.php on line 578
+[21-Jul-2020 19:05:21 UTC] PHP Stack trace:
+[21-Jul-2020 19:05:21 UTC] PHP   1. {main}() /home/abdulhadi/Local Sites/eduslack/app/public/wp-cron.php:0
+[21-Jul-2020 19:05:21 UTC] PHP   2. do_action_ref_array() /home/abdulhadi/Local Sites/eduslack/app/public/wp-cron.php:138
+[21-Jul-2020 19:05:21 UTC] PHP   3. WP_Hook->do_action() /home/abdulhadi/Local Sites/eduslack/app/public/wp-includes/plugin.php:544
+[21-Jul-2020 19:05:21 UTC] PHP   4. WP_Hook->apply_filters() /home/abdulhadi/Local Sites/eduslack/app/public/wp-includes/class-wp-hook.php:311
+[21-Jul-2020 19:05:21 UTC] PHP   5. wp_update_themes() /home/abdulhadi/Local Sites/eduslack/app/public/wp-includes/class-wp-hook.php:287
+[21-Jul-2020 19:05:21 UTC] PHP   6. trigger_error() /home/abdulhadi/Local Sites/eduslack/app/public/wp-includes/update.php:578
+[21-Jul-2020 19:15:13 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/abdulhadi/Local Sites/eduslack/app/public/wp-content/themes/eduslack-theme/page.php on line 38
+[21-Jul-2020 19:15:36 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/abdulhadi/Local Sites/eduslack/app/public/wp-content/themes/eduslack-theme/page.php on line 38
+[21-Jul-2020 19:32:44 UTC] PHP Warning:  Use of undefined constant child - assumed 'child' (this will throw an Error in a future version of PHP) in /home/abdulhadi/Local Sites/eduslack/app/public/wp-content/themes/eduslack-theme/page.php on line 42
+[21-Jul-2020 19:32:44 UTC] PHP Stack trace:
+[21-Jul-2020 19:32:44 UTC] PHP   1. {main}() /home/abdulhadi/Local Sites/eduslack/app/public/index.php:0
+[21-Jul-2020 19:32:44 UTC] PHP   2. require() /home/abdulhadi/Local Sites/eduslack/app/public/index.php:17
+[21-Jul-2020 19:32:44 UTC] PHP   3. require_once() /home/abdulhadi/Local Sites/eduslack/app/public/wp-blog-header.php:19
+[21-Jul-2020 19:32:44 UTC] PHP   4. include() /home/abdulhadi/Local Sites/eduslack/app/public/wp-includes/template-loader.php:106
+[21-Jul-2020 19:32:44 UTC] PHP Warning:  Use of undefined constant of - assumed 'of' (this will throw an Error in a future version of PHP) in /home/abdulhadi/Local Sites/eduslack/app/public/wp-content/themes/eduslack-theme/page.php on line 42
+[21-Jul-2020 19:32:44 UTC] PHP Stack trace:
+[21-Jul-2020 19:32:44 UTC] PHP   1. {main}() /home/abdulhadi/Local Sites/eduslack/app/public/index.php:0
+[21-Jul-2020 19:32:44 UTC] PHP   2. require() /home/abdulhadi/Local Sites/eduslack/app/public/index.php:17
+[21-Jul-2020 19:32:44 UTC] PHP   3. require_once() /home/abdulhadi/Local Sites/eduslack/app/public/wp-blog-header.php:19
+[21-Jul-2020 19:32:44 UTC] PHP   4. include() /home/abdulhadi/Local Sites/eduslack/app/public/wp-includes/template-loader.php:106
+[21-Jul-2020 19:32:44 UTC] PHP Warning:  A non-numeric value encountered in /home/abdulhadi/Local Sites/eduslack/app/public/wp-content/themes/eduslack-theme/page.php on line 42
+[21-Jul-2020 19:32:44 UTC] PHP Stack trace:
+[21-Jul-2020 19:32:44 UTC] PHP   1. {main}() /home/abdulhadi/Local Sites/eduslack/app/public/index.php:0
+[21-Jul-2020 19:32:44 UTC] PHP   2. require() /home/abdulhadi/Local Sites/eduslack/app/public/index.php:17
+[21-Jul-2020 19:32:44 UTC] PHP   3. require_once() /home/abdulhadi/Local Sites/eduslack/app/public/wp-blog-header.php:19
+[21-Jul-2020 19:32:44 UTC] PHP   4. include() /home/abdulhadi/Local Sites/eduslack/app/public/wp-includes/template-loader.php:106
+[21-Jul-2020 19:32:44 UTC] PHP Warning:  A non-numeric value encountered in /home/abdulhadi/Local Sites/eduslack/app/public/wp-content/themes/eduslack-theme/page.php on line 42
+[21-Jul-2020 19:32:44 UTC] PHP Stack trace:
+[21-Jul-2020 19:32:44 UTC] PHP   1. {main}() /home/abdulhadi/Local Sites/eduslack/app/public/index.php:0
+[21-Jul-2020 19:32:44 UTC] PHP   2. require() /home/abdulhadi/Local Sites/eduslack/app/public/index.php:17
+[21-Jul-2020 19:32:44 UTC] PHP   3. require_once() /home/abdulhadi/Local Sites/eduslack/app/public/wp-blog-header.php:19
+[21-Jul-2020 19:32:44 UTC] PHP   4. include() /home/abdulhadi/Local Sites/eduslack/app/public/wp-includes/template-loader.php:106
+[21-Jul-2020 19:35:51 UTC] PHP Parse error:  syntax error, unexpected ''sort_column'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/abdulhadi/Local Sites/eduslack/app/public/wp-content/themes/eduslack-theme/page.php on line 65
+[21-Jul-2020 19:35:52 UTC] PHP Parse error:  syntax error, unexpected ''sort_column'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/abdulhadi/Local Sites/eduslack/app/public/wp-content/themes/eduslack-theme/page.php on line 65
+[21-Jul-2020 19:55:17 UTC] PHP Parse error:  syntax error, unexpected 'add_theme_support' (T_STRING) in /home/abdulhadi/Local Sites/eduslack/app/public/wp-content/themes/eduslack-theme/functions.php on line 16
+[21-Jul-2020 19:55:19 UTC] PHP Parse error:  syntax error, unexpected 'add_theme_support' (T_STRING) in /home/abdulhadi/Local Sites/eduslack/app/public/wp-content/themes/eduslack-theme/functions.php on line 16
+[21-Jul-2020 19:55:36 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/abdulhadi/Local Sites/eduslack/app/public/wp-includes/nav-menu.php on line 95
+[21-Jul-2020 19:55:36 UTC] PHP Stack trace:
+[21-Jul-2020 19:55:36 UTC] PHP   1. {main}() /home/abdulhadi/Local Sites/eduslack/app/public/wp-admin/edit.php:0
+[21-Jul-2020 19:55:36 UTC] PHP   2. require_once() /home/abdulhadi/Local Sites/eduslack/app/public/wp-admin/edit.php:10
+[21-Jul-2020 19:55:36 UTC] PHP   3. require_once() /home/abdulhadi/Local Sites/eduslack/app/public/wp-admin/admin.php:34
+[21-Jul-2020 19:55:36 UTC] PHP   4. require_once() /home/abdulhadi/Local Sites/eduslack/app/public/wp-load.php:37
+[21-Jul-2020 19:55:36 UTC] PHP   5. require_once() /home/abdulhadi/Local Sites/eduslack/app/public/wp-config.php:77
+[21-Jul-2020 19:55:36 UTC] PHP   6. do_action() /home/abdulhadi/Local Sites/eduslack/app/public/wp-settings.php:518
+[21-Jul-2020 19:55:36 UTC] PHP   7. WP_Hook->do_action() /home/abdulhadi/Local Sites/eduslack/app/public/wp-includes/plugin.php:478
+[21-Jul-2020 19:55:36 UTC] PHP   8. WP_Hook->apply_filters() /home/abdulhadi/Local Sites/eduslack/app/public/wp-includes/class-wp-hook.php:311
+[21-Jul-2020 19:55:36 UTC] PHP   9. eduslack_features() /home/abdulhadi/Local Sites/eduslack/app/public/wp-includes/class-wp-hook.php:287
+[21-Jul-2020 19:55:36 UTC] PHP  10. register_nav_menus() /home/abdulhadi/Local Sites/eduslack/app/public/wp-content/themes/eduslack-theme/functions.php:15
+[21-Jul-2020 19:55:36 UTC] PHP Warning:  array_merge(): Expected parameter 2 to be an array, string given in /home/abdulhadi/Local Sites/eduslack/app/public/wp-includes/nav-menu.php on line 102
+[21-Jul-2020 19:55:36 UTC] PHP Stack trace:
+[21-Jul-2020 19:55:36 UTC] PHP   1. {main}() /home/abdulhadi/Local Sites/eduslack/app/public/wp-admin/edit.php:0
+[21-Jul-2020 19:55:36 UTC] PHP   2. require_once() /home/abdulhadi/Local Sites/eduslack/app/public/wp-admin/edit.php:10
+[21-Jul-2020 19:55:36 UTC] PHP   3. require_once() /home/abdulhadi/Local Sites/eduslack/app/public/wp-admin/admin.php:34
+[21-Jul-2020 19:55:36 UTC] PHP   4. require_once() /home/abdulhadi/Local Sites/eduslack/app/public/wp-load.php:37
+[21-Jul-2020 19:55:36 UTC] PHP   5. require_once() /home/abdulhadi/Local Sites/eduslack/app/public/wp-config.php:77
+[21-Jul-2020 19:55:36 UTC] PHP   6. do_action() /home/abdulhadi/Local Sites/eduslack/app/public/wp-settings.php:518
+[21-Jul-2020 19:55:36 UTC] PHP   7. WP_Hook->do_action() /home/abdulhadi/Local Sites/eduslack/app/public/wp-includes/plugin.php:478
+[21-Jul-2020 19:55:36 UTC] PHP   8. WP_Hook->apply_filters() /home/abdulhadi/Local Sites/eduslack/app/public/wp-includes/class-wp-hook.php:311
+[21-Jul-2020 19:55:36 UTC] PHP   9. eduslack_features() /home/abdulhadi/Local Sites/eduslack/app/public/wp-includes/class-wp-hook.php:287
+[21-Jul-2020 19:55:36 UTC] PHP  10. register_nav_menus() /home/abdulhadi/Local Sites/eduslack/app/public/wp-content/themes/eduslack-theme/functions.php:15
+[21-Jul-2020 19:55:36 UTC] PHP  11. array_merge() /home/abdulhadi/Local Sites/eduslack/app/public/wp-includes/nav-menu.php:102
+[21-Jul-2020 19:55:36 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/abdulhadi/Local Sites/eduslack/app/public/wp-includes/nav-menu.php:95) in /home/abdulhadi/Local Sites/eduslack/app/public/wp-includes/functions.php on line 6221
+[21-Jul-2020 19:55:36 UTC] PHP Stack trace:
+[21-Jul-2020 19:55:36 UTC] PHP   1. {main}() /home/abdulhadi/Local Sites/eduslack/app/public/wp-admin/edit.php:0
+[21-Jul-2020 19:55:36 UTC] PHP   2. require_once() /home/abdulhadi/Local Sites/eduslack/app/public/wp-admin/edit.php:10
+[21-Jul-2020 19:55:36 UTC] PHP   3. do_action() /home/abdulhadi/Local Sites/eduslack/app/public/wp-admin/admin.php:170
+[21-Jul-2020 19:55:36 UTC] PHP   4. WP_Hook->do_action() /home/abdulhadi/Local Sites/eduslack/app/public/wp-includes/plugin.php:478
+[21-Jul-2020 19:55:36 UTC] PHP   5. WP_Hook->apply_filters() /home/abdulhadi/Local Sites/eduslack/app/public/wp-includes/class-wp-hook.php:311
+[21-Jul-2020 19:55:36 UTC] PHP   6. send_frame_options_header() /home/abdulhadi/Local Sites/eduslack/app/public/wp-includes/class-wp-hook.php:285
+[21-Jul-2020 19:55:36 UTC] PHP   7. header() /home/abdulhadi/Local Sites/eduslack/app/public/wp-includes/functions.php:6221
+[21-Jul-2020 19:55:36 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/abdulhadi/Local Sites/eduslack/app/public/wp-includes/nav-menu.php:95) in /home/abdulhadi/Local Sites/eduslack/app/public/wp-admin/includes/misc.php on line 1282
+[21-Jul-2020 19:55:36 UTC] PHP Stack trace:
+[21-Jul-2020 19:55:36 UTC] PHP   1. {main}() /home/abdulhadi/Local Sites/eduslack/app/public/wp-admin/edit.php:0
+[21-Jul-2020 19:55:36 UTC] PHP   2. require_once() /home/abdulhadi/Local Sites/eduslack/app/public/wp-admin/edit.php:10
+[21-Jul-2020 19:55:36 UTC] PHP   3. do_action() /home/abdulhadi/Local Sites/eduslack/app/public/wp-admin/admin.php:170
+[21-Jul-2020 19:55:36 UTC] PHP   4. WP_Hook->do_action() /home/abdulhadi/Local Sites/eduslack/app/public/wp-includes/plugin.php:478
+[21-Jul-2020 19:55:36 UTC] PHP   5. WP_Hook->apply_filters() /home/abdulhadi/Local Sites/eduslack/app/public/wp-includes/class-wp-hook.php:311
+[21-Jul-2020 19:55:36 UTC] PHP   6. wp_admin_headers() /home/abdulhadi/Local Sites/eduslack/app/public/wp-includes/class-wp-hook.php:287
+[21-Jul-2020 19:55:36 UTC] PHP   7. header() /home/abdulhadi/Local Sites/eduslack/app/public/wp-admin/includes/misc.php:1282
+[21-Jul-2020 19:55:36 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/abdulhadi/Local Sites/eduslack/app/public/wp-includes/nav-menu.php:95) in /home/abdulhadi/Local Sites/eduslack/app/public/wp-admin/admin-header.php on line 9
+[21-Jul-2020 19:55:36 UTC] PHP Stack trace:
+[21-Jul-2020 19:55:36 UTC] PHP   1. {main}() /home/abdulhadi/Local Sites/eduslack/app/public/wp-admin/edit.php:0
+[21-Jul-2020 19:55:36 UTC] PHP   2. require_once() /home/abdulhadi/Local Sites/eduslack/app/public/wp-admin/edit.php:386
+[21-Jul-2020 19:55:36 UTC] PHP   3. header() /home/abdulhadi/Local Sites/eduslack/app/public/wp-admin/admin-header.php:9
+[21-Jul-2020 19:55:36 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/abdulhadi/Local Sites/eduslack/app/public/wp-includes/nav-menu.php:95) in /home/abdulhadi/Local Sites/eduslack/app/public/wp-includes/option.php on line 961
+[21-Jul-2020 19:55:36 UTC] PHP Stack trace:
+[21-Jul-2020 19:55:36 UTC] PHP   1. {main}() /home/abdulhadi/Local Sites/eduslack/app/public/wp-admin/edit.php:0
+[21-Jul-2020 19:55:36 UTC] PHP   2. require_once() /home/abdulhadi/Local Sites/eduslack/app/public/wp-admin/edit.php:386
+[21-Jul-2020 19:55:36 UTC] PHP   3. wp_user_settings() /home/abdulhadi/Local Sites/eduslack/app/public/wp-admin/admin-header.php:70
+[21-Jul-2020 19:55:36 UTC] PHP   4. setcookie() /home/abdulhadi/Local Sites/eduslack/app/public/wp-includes/option.php:961
+[21-Jul-2020 19:55:36 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/abdulhadi/Local Sites/eduslack/app/public/wp-includes/nav-menu.php:95) in /home/abdulhadi/Local Sites/eduslack/app/public/wp-includes/option.php on line 962
+[21-Jul-2020 19:55:36 UTC] PHP Stack trace:
+[21-Jul-2020 19:55:36 UTC] PHP   1. {main}() /home/abdulhadi/Local Sites/eduslack/app/public/wp-admin/edit.php:0
+[21-Jul-2020 19:55:36 UTC] PHP   2. require_once() /home/abdulhadi/Local Sites/eduslack/app/public/wp-admin/edit.php:386
+[21-Jul-2020 19:55:36 UTC] PHP   3. wp_user_settings() /home/abdulhadi/Local Sites/eduslack/app/public/wp-admin/admin-header.php:70
+[21-Jul-2020 19:55:36 UTC] PHP   4. setcookie() /home/abdulhadi/Local Sites/eduslack/app/public/wp-includes/option.php:962
+[21-Jul-2020 19:55:37 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/abdulhadi/Local Sites/eduslack/app/public/wp-includes/nav-menu.php on line 95
+[21-Jul-2020 19:55:37 UTC] PHP Stack trace:
+[21-Jul-2020 19:55:37 UTC] PHP   1. {main}() /home/abdulhadi/Local Sites/eduslack/app/public/wp-admin/admin-ajax.php:0
+[21-Jul-2020 19:55:37 UTC] PHP   2. require_once() /home/abdulhadi/Local Sites/eduslack/app/public/wp-admin/admin-ajax.php:22
+[21-Jul-2020 19:55:37 UTC] PHP   3. require_once() /home/abdulhadi/Local Sites/eduslack/app/public/wp-load.php:37
+[21-Jul-2020 19:55:37 UTC] PHP   4. require_once() /home/abdulhadi/Local Sites/eduslack/app/public/wp-config.php:77
+[21-Jul-2020 19:55:37 UTC] PHP   5. do_action() /home/abdulhadi/Local Sites/eduslack/app/public/wp-settings.php:518
+[21-Jul-2020 19:55:37 UTC] PHP   6. WP_Hook->do_action() /home/abdulhadi/Local Sites/eduslack/app/public/wp-includes/plugin.php:478
+[21-Jul-2020 19:55:37 UTC] PHP   7. WP_Hook->apply_filters() /home/abdulhadi/Local Sites/eduslack/app/public/wp-includes/class-wp-hook.php:311
+[21-Jul-2020 19:55:37 UTC] PHP   8. eduslack_features() /home/abdulhadi/Local Sites/eduslack/app/public/wp-includes/class-wp-hook.php:287
+[21-Jul-2020 19:55:37 UTC] PHP   9. register_nav_menus() /home/abdulhadi/Local Sites/eduslack/app/public/wp-content/themes/eduslack-theme/functions.php:15
+[21-Jul-2020 19:55:37 UTC] PHP Warning:  array_merge(): Expected parameter 2 to be an array, string given in /home/abdulhadi/Local Sites/eduslack/app/public/wp-includes/nav-menu.php on line 102
+[21-Jul-2020 19:55:37 UTC] PHP Stack trace:
+[21-Jul-2020 19:55:37 UTC] PHP   1. {main}() /home/abdulhadi/Local Sites/eduslack/app/public/wp-admin/admin-ajax.php:0
+[21-Jul-2020 19:55:37 UTC] PHP   2. require_once() /home/abdulhadi/Local Sites/eduslack/app/public/wp-admin/admin-ajax.php:22
+[21-Jul-2020 19:55:37 UTC] PHP   3. require_once() /home/abdulhadi/Local Sites/eduslack/app/public/wp-load.php:37
+[21-Jul-2020 19:55:37 UTC] PHP   4. require_once() /home/abdulhadi/Local Sites/eduslack/app/public/wp-config.php:77
+[21-Jul-2020 19:55:37 UTC] PHP   5. do_action() /home/abdulhadi/Local Sites/eduslack/app/public/wp-settings.php:518
+[21-Jul-2020 19:55:37 UTC] PHP   6. WP_Hook->do_action() /home/abdulhadi/Local Sites/eduslack/app/public/wp-includes/plugin.php:478
+[21-Jul-2020 19:55:37 UTC] PHP   7. WP_Hook->apply_filters() /home/abdulhadi/Local Sites/eduslack/app/public/wp-includes/class-wp-hook.php:311
+[21-Jul-2020 19:55:37 UTC] PHP   8. eduslack_features() /home/abdulhadi/Local Sites/eduslack/app/public/wp-includes/class-wp-hook.php:287
+[21-Jul-2020 19:55:37 UTC] PHP   9. register_nav_menus() /home/abdulhadi/Local Sites/eduslack/app/public/wp-content/themes/eduslack-theme/functions.php:15
+[21-Jul-2020 19:55:37 UTC] PHP  10. array_merge() /home/abdulhadi/Local Sites/eduslack/app/public/wp-includes/nav-menu.php:102
+[21-Jul-2020 19:55:39 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/abdulhadi/Local Sites/eduslack/app/public/wp-includes/nav-menu.php on line 95
+[21-Jul-2020 19:55:39 UTC] PHP Stack trace:
+[21-Jul-2020 19:55:39 UTC] PHP   1. {main}() /home/abdulhadi/Local Sites/eduslack/app/public/wp-admin/edit.php:0
+[21-Jul-2020 19:55:39 UTC] PHP   2. require_once() /home/abdulhadi/Local Sites/eduslack/app/public/wp-admin/edit.php:10
+[21-Jul-2020 19:55:39 UTC] PHP   3. require_once() /home/abdulhadi/Local Sites/eduslack/app/public/wp-admin/admin.php:34
+[21-Jul-2020 19:55:39 UTC] PHP   4. require_once() /home/abdulhadi/Local Sites/eduslack/app/public/wp-load.php:37
+[21-Jul-2020 19:55:39 UTC] PHP   5. require_once() /home/abdulhadi/Local Sites/eduslack/app/public/wp-config.php:77
+[21-Jul-2020 19:55:39 UTC] PHP   6. do_action() /home/abdulhadi/Local Sites/eduslack/app/public/wp-settings.php:518
+[21-Jul-2020 19:55:39 UTC] PHP   7. WP_Hook->do_action() /home/abdulhadi/Local Sites/eduslack/app/public/wp-includes/plugin.php:478
+[21-Jul-2020 19:55:39 UTC] PHP   8. WP_Hook->apply_filters() /home/abdulhadi/Local Sites/eduslack/app/public/wp-includes/class-wp-hook.php:311
+[21-Jul-2020 19:55:39 UTC] PHP   9. eduslack_features() /home/abdulhadi/Local Sites/eduslack/app/public/wp-includes/class-wp-hook.php:287
+[21-Jul-2020 19:55:39 UTC] PHP  10. register_nav_menus() /home/abdulhadi/Local Sites/eduslack/app/public/wp-content/themes/eduslack-theme/functions.php:15
+[21-Jul-2020 19:55:39 UTC] PHP Warning:  array_merge(): Expected parameter 2 to be an array, string given in /home/abdulhadi/Local Sites/eduslack/app/public/wp-includes/nav-menu.php on line 102
+[21-Jul-2020 19:55:39 UTC] PHP Stack trace:
+[21-Jul-2020 19:55:39 UTC] PHP   1. {main}() /home/abdulhadi/Local Sites/eduslack/app/public/wp-admin/edit.php:0
+[21-Jul-2020 19:55:39 UTC] PHP   2. require_once() /home/abdulhadi/Local Sites/eduslack/app/public/wp-admin/edit.php:10
+[21-Jul-2020 19:55:39 UTC] PHP   3. require_once() /home/abdulhadi/Local Sites/eduslack/app/public/wp-admin/admin.php:34
+[21-Jul-2020 19:55:39 UTC] PHP   4. require_once() /home/abdulhadi/Local Sites/eduslack/app/public/wp-load.php:37
+[21-Jul-2020 19:55:39 UTC] PHP   5. require_once() /home/abdulhadi/Local Sites/eduslack/app/public/wp-config.php:77
+[21-Jul-2020 19:55:39 UTC] PHP   6. do_action() /home/abdulhadi/Local Sites/eduslack/app/public/wp-settings.php:518
+[21-Jul-2020 19:55:39 UTC] PHP   7. WP_Hook->do_action() /home/abdulhadi/Local Sites/eduslack/app/public/wp-includes/plugin.php:478
+[21-Jul-2020 19:55:39 UTC] PHP   8. WP_Hook->apply_filters() /home/abdulhadi/Local Sites/eduslack/app/public/wp-includes/class-wp-hook.php:311
+[21-Jul-2020 19:55:39 UTC] PHP   9. eduslack_features() /home/abdulhadi/Local Sites/eduslack/app/public/wp-includes/class-wp-hook.php:287
+[21-Jul-2020 19:55:39 UTC] PHP  10. register_nav_menus() /home/abdulhadi/Local Sites/eduslack/app/public/wp-content/themes/eduslack-theme/functions.php:15
+[21-Jul-2020 19:55:39 UTC] PHP  11. array_merge() /home/abdulhadi/Local Sites/eduslack/app/public/wp-includes/nav-menu.php:102
+[21-Jul-2020 19:55:39 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/abdulhadi/Local Sites/eduslack/app/public/wp-includes/nav-menu.php:95) in /home/abdulhadi/Local Sites/eduslack/app/public/wp-includes/functions.php on line 6221
+[21-Jul-2020 19:55:39 UTC] PHP Stack trace:
+[21-Jul-2020 19:55:39 UTC] PHP   1. {main}() /home/abdulhadi/Local Sites/eduslack/app/public/wp-admin/edit.php:0
+[21-Jul-2020 19:55:39 UTC] PHP   2. require_once() /home/abdulhadi/Local Sites/eduslack/app/public/wp-admin/edit.php:10
+[21-Jul-2020 19:55:39 UTC] PHP   3. do_action() /home/abdulhadi/Local Sites/eduslack/app/public/wp-admin/admin.php:170
+[21-Jul-2020 19:55:39 UTC] PHP   4. WP_Hook->do_action() /home/abdulhadi/Local Sites/eduslack/app/public/wp-includes/plugin.php:478
+[21-Jul-2020 19:55:39 UTC] PHP   5. WP_Hook->apply_filters() /home/abdulhadi/Local Sites/eduslack/app/public/wp-includes/class-wp-hook.php:311
+[21-Jul-2020 19:55:39 UTC] PHP   6. send_frame_options_header() /home/abdulhadi/Local Sites/eduslack/app/public/wp-includes/class-wp-hook.php:285
+[21-Jul-2020 19:55:39 UTC] PHP   7. header() /home/abdulhadi/Local Sites/eduslack/app/public/wp-includes/functions.php:6221
+[21-Jul-2020 19:55:39 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/abdulhadi/Local Sites/eduslack/app/public/wp-includes/nav-menu.php:95) in /home/abdulhadi/Local Sites/eduslack/app/public/wp-admin/includes/misc.php on line 1282
+[21-Jul-2020 19:55:39 UTC] PHP Stack trace:
+[21-Jul-2020 19:55:39 UTC] PHP   1. {main}() /home/abdulhadi/Local Sites/eduslack/app/public/wp-admin/edit.php:0
+[21-Jul-2020 19:55:39 UTC] PHP   2. require_once() /home/abdulhadi/Local Sites/eduslack/app/public/wp-admin/edit.php:10
+[21-Jul-2020 19:55:39 UTC] PHP   3. do_action() /home/abdulhadi/Local Sites/eduslack/app/public/wp-admin/admin.php:170
+[21-Jul-2020 19:55:39 UTC] PHP   4. WP_Hook->do_action() /home/abdulhadi/Local Sites/eduslack/app/public/wp-includes/plugin.php:478
+[21-Jul-2020 19:55:39 UTC] PHP   5. WP_Hook->apply_filters() /home/abdulhadi/Local Sites/eduslack/app/public/wp-includes/class-wp-hook.php:311
+[21-Jul-2020 19:55:39 UTC] PHP   6. wp_admin_headers() /home/abdulhadi/Local Sites/eduslack/app/public/wp-includes/class-wp-hook.php:287
+[21-Jul-2020 19:55:39 UTC] PHP   7. header() /home/abdulhadi/Local Sites/eduslack/app/public/wp-admin/includes/misc.php:1282
+[21-Jul-2020 19:55:39 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/abdulhadi/Local Sites/eduslack/app/public/wp-includes/nav-menu.php:95) in /home/abdulhadi/Local Sites/eduslack/app/public/wp-admin/admin-header.php on line 9
+[21-Jul-2020 19:55:39 UTC] PHP Stack trace:
+[21-Jul-2020 19:55:39 UTC] PHP   1. {main}() /home/abdulhadi/Local Sites/eduslack/app/public/wp-admin/edit.php:0
+[21-Jul-2020 19:55:39 UTC] PHP   2. require_once() /home/abdulhadi/Local Sites/eduslack/app/public/wp-admin/edit.php:386
+[21-Jul-2020 19:55:39 UTC] PHP   3. header() /home/abdulhadi/Local Sites/eduslack/app/public/wp-admin/admin-header.php:9
+[21-Jul-2020 19:55:39 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/abdulhadi/Local Sites/eduslack/app/public/wp-includes/nav-menu.php:95) in /home/abdulhadi/Local Sites/eduslack/app/public/wp-includes/option.php on line 961
+[21-Jul-2020 19:55:39 UTC] PHP Stack trace:
+[21-Jul-2020 19:55:39 UTC] PHP   1. {main}() /home/abdulhadi/Local Sites/eduslack/app/public/wp-admin/edit.php:0
+[21-Jul-2020 19:55:39 UTC] PHP   2. require_once() /home/abdulhadi/Local Sites/eduslack/app/public/wp-admin/edit.php:386
+[21-Jul-2020 19:55:39 UTC] PHP   3. wp_user_settings() /home/abdulhadi/Local Sites/eduslack/app/public/wp-admin/admin-header.php:70
+[21-Jul-2020 19:55:39 UTC] PHP   4. setcookie() /home/abdulhadi/Local Sites/eduslack/app/public/wp-includes/option.php:961
+[21-Jul-2020 19:55:39 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/abdulhadi/Local Sites/eduslack/app/public/wp-includes/nav-menu.php:95) in /home/abdulhadi/Local Sites/eduslack/app/public/wp-includes/option.php on line 962
+[21-Jul-2020 19:55:39 UTC] PHP Stack trace:
+[21-Jul-2020 19:55:39 UTC] PHP   1. {main}() /home/abdulhadi/Local Sites/eduslack/app/public/wp-admin/edit.php:0
+[21-Jul-2020 19:55:39 UTC] PHP   2. require_once() /home/abdulhadi/Local Sites/eduslack/app/public/wp-admin/edit.php:386
+[21-Jul-2020 19:55:39 UTC] PHP   3. wp_user_settings() /home/abdulhadi/Local Sites/eduslack/app/public/wp-admin/admin-header.php:70
+[21-Jul-2020 19:55:39 UTC] PHP   4. setcookie() /home/abdulhadi/Local Sites/eduslack/app/public/wp-includes/option.php:962
+[21-Jul-2020 19:55:39 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/abdulhadi/Local Sites/eduslack/app/public/wp-includes/nav-menu.php on line 95
+[21-Jul-2020 19:55:39 UTC] PHP Stack trace:
+[21-Jul-2020 19:55:39 UTC] PHP   1. {main}() /home/abdulhadi/Local Sites/eduslack/app/public/wp-admin/admin-ajax.php:0
+[21-Jul-2020 19:55:39 UTC] PHP   2. require_once() /home/abdulhadi/Local Sites/eduslack/app/public/wp-admin/admin-ajax.php:22
+[21-Jul-2020 19:55:39 UTC] PHP   3. require_once() /home/abdulhadi/Local Sites/eduslack/app/public/wp-load.php:37
+[21-Jul-2020 19:55:39 UTC] PHP   4. require_once() /home/abdulhadi/Local Sites/eduslack/app/public/wp-config.php:77
+[21-Jul-2020 19:55:39 UTC] PHP   5. do_action() /home/abdulhadi/Local Sites/eduslack/app/public/wp-settings.php:518
+[21-Jul-2020 19:55:39 UTC] PHP   6. WP_Hook->do_action() /home/abdulhadi/Local Sites/eduslack/app/public/wp-includes/plugin.php:478
+[21-Jul-2020 19:55:39 UTC] PHP   7. WP_Hook->apply_filters() /home/abdulhadi/Local Sites/eduslack/app/public/wp-includes/class-wp-hook.php:311
+[21-Jul-2020 19:55:39 UTC] PHP   8. eduslack_features() /home/abdulhadi/Local Sites/eduslack/app/public/wp-includes/class-wp-hook.php:287
+[21-Jul-2020 19:55:39 UTC] PHP   9. register_nav_menus() /home/abdulhadi/Local Sites/eduslack/app/public/wp-content/themes/eduslack-theme/functions.php:15
+[21-Jul-2020 19:55:39 UTC] PHP Warning:  array_merge(): Expected parameter 2 to be an array, string given in /home/abdulhadi/Local Sites/eduslack/app/public/wp-includes/nav-menu.php on line 102
+[21-Jul-2020 19:55:39 UTC] PHP Stack trace:
+[21-Jul-2020 19:55:39 UTC] PHP   1. {main}() /home/abdulhadi/Local Sites/eduslack/app/public/wp-admin/admin-ajax.php:0
+[21-Jul-2020 19:55:39 UTC] PHP   2. require_once() /home/abdulhadi/Local Sites/eduslack/app/public/wp-admin/admin-ajax.php:22
+[21-Jul-2020 19:55:39 UTC] PHP   3. require_once() /home/abdulhadi/Local Sites/eduslack/app/public/wp-load.php:37
+[21-Jul-2020 19:55:39 UTC] PHP   4. require_once() /home/abdulhadi/Local Sites/eduslack/app/public/wp-config.php:77
+[21-Jul-2020 19:55:39 UTC] PHP   5. do_action() /home/abdulhadi/Local Sites/eduslack/app/public/wp-settings.php:518
+[21-Jul-2020 19:55:39 UTC] PHP   6. WP_Hook->do_action() /home/abdulhadi/Local Sites/eduslack/app/public/wp-includes/plugin.php:478
+[21-Jul-2020 19:55:39 UTC] PHP   7. WP_Hook->apply_filters() /home/abdulhadi/Local Sites/eduslack/app/public/wp-includes/class-wp-hook.php:311
+[21-Jul-2020 19:55:39 UTC] PHP   8. eduslack_features() /home/abdulhadi/Local Sites/eduslack/app/public/wp-includes/class-wp-hook.php:287
+[21-Jul-2020 19:55:39 UTC] PHP   9. register_nav_menus() /home/abdulhadi/Local Sites/eduslack/app/public/wp-content/themes/eduslack-theme/functions.php:15
+[21-Jul-2020 19:55:39 UTC] PHP  10. array_merge() /home/abdulhadi/Local Sites/eduslack/app/public/wp-includes/nav-menu.php:102
+[21-Jul-2020 19:55:54 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/abdulhadi/Local Sites/eduslack/app/public/wp-includes/nav-menu.php on line 95
+[21-Jul-2020 19:55:54 UTC] PHP Stack trace:
+[21-Jul-2020 19:55:54 UTC] PHP   1. {main}() /home/abdulhadi/Local Sites/eduslack/app/public/wp-admin/admin-ajax.php:0
+[21-Jul-2020 19:55:54 UTC] PHP   2. require_once() /home/abdulhadi/Local Sites/eduslack/app/public/wp-admin/admin-ajax.php:22
+[21-Jul-2020 19:55:54 UTC] PHP   3. require_once() /home/abdulhadi/Local Sites/eduslack/app/public/wp-load.php:37
+[21-Jul-2020 19:55:54 UTC] PHP   4. require_once() /home/abdulhadi/Local Sites/eduslack/app/public/wp-config.php:77
+[21-Jul-2020 19:55:54 UTC] PHP   5. do_action() /home/abdulhadi/Local Sites/eduslack/app/public/wp-settings.php:518
+[21-Jul-2020 19:55:54 UTC] PHP   6. WP_Hook->do_action() /home/abdulhadi/Local Sites/eduslack/app/public/wp-includes/plugin.php:478
+[21-Jul-2020 19:55:54 UTC] PHP   7. WP_Hook->apply_filters() /home/abdulhadi/Local Sites/eduslack/app/public/wp-includes/class-wp-hook.php:311
+[21-Jul-2020 19:55:54 UTC] PHP   8. eduslack_features() /home/abdulhadi/Local Sites/eduslack/app/public/wp-includes/class-wp-hook.php:287
+[21-Jul-2020 19:55:54 UTC] PHP   9. register_nav_menus() /home/abdulhadi/Local Sites/eduslack/app/public/wp-content/themes/eduslack-theme/functions.php:15
+[21-Jul-2020 19:55:54 UTC] PHP Warning:  array_merge(): Expected parameter 2 to be an array, string given in /home/abdulhadi/Local Sites/eduslack/app/public/wp-includes/nav-menu.php on line 102
+[21-Jul-2020 19:55:54 UTC] PHP Stack trace:
+[21-Jul-2020 19:55:54 UTC] PHP   1. {main}() /home/abdulhadi/Local Sites/eduslack/app/public/wp-admin/admin-ajax.php:0
+[21-Jul-2020 19:55:54 UTC] PHP   2. require_once() /home/abdulhadi/Local Sites/eduslack/app/public/wp-admin/admin-ajax.php:22
+[21-Jul-2020 19:55:54 UTC] PHP   3. require_once() /home/abdulhadi/Local Sites/eduslack/app/public/wp-load.php:37
+[21-Jul-2020 19:55:54 UTC] PHP   4. require_once() /home/abdulhadi/Local Sites/eduslack/app/public/wp-config.php:77
+[21-Jul-2020 19:55:54 UTC] PHP   5. do_action() /home/abdulhadi/Local Sites/eduslack/app/public/wp-settings.php:518
+[21-Jul-2020 19:55:54 UTC] PHP   6. WP_Hook->do_action() /home/abdulhadi/Local Sites/eduslack/app/public/wp-includes/plugin.php:478
+[21-Jul-2020 19:55:54 UTC] PHP   7. WP_Hook->apply_filters() /home/abdulhadi/Local Sites/eduslack/app/public/wp-includes/class-wp-hook.php:311
+[21-Jul-2020 19:55:54 UTC] PHP   8. eduslack_features() /home/abdulhadi/Local Sites/eduslack/app/public/wp-includes/class-wp-hook.php:287
+[21-Jul-2020 19:55:54 UTC] PHP   9. register_nav_menus() /home/abdulhadi/Local Sites/eduslack/app/public/wp-content/themes/eduslack-theme/functions.php:15
+[21-Jul-2020 19:55:54 UTC] PHP  10. array_merge() /home/abdulhadi/Local Sites/eduslack/app/public/wp-includes/nav-menu.php:102
+[21-Jul-2020 19:56:15 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/abdulhadi/Local Sites/eduslack/app/public/wp-includes/nav-menu.php on line 95
+[21-Jul-2020 19:56:15 UTC] PHP Stack trace:
+[21-Jul-2020 19:56:15 UTC] PHP   1. {main}() /home/abdulhadi/Local Sites/eduslack/app/public/wp-admin/edit.php:0
+[21-Jul-2020 19:56:15 UTC] PHP   2. require_once() /home/abdulhadi/Local Sites/eduslack/app/public/wp-admin/edit.php:10
+[21-Jul-2020 19:56:15 UTC] PHP   3. require_once() /home/abdulhadi/Local Sites/eduslack/app/public/wp-admin/admin.php:34
+[21-Jul-2020 19:56:15 UTC] PHP   4. require_once() /home/abdulhadi/Local Sites/eduslack/app/public/wp-load.php:37
+[21-Jul-2020 19:56:15 UTC] PHP   5. require_once() /home/abdulhadi/Local Sites/eduslack/app/public/wp-config.php:77
+[21-Jul-2020 19:56:15 UTC] PHP   6. do_action() /home/abdulhadi/Local Sites/eduslack/app/public/wp-settings.php:518
+[21-Jul-2020 19:56:15 UTC] PHP   7. WP_Hook->do_action() /home/abdulhadi/Local Sites/eduslack/app/public/wp-includes/plugin.php:478
+[21-Jul-2020 19:56:15 UTC] PHP   8. WP_Hook->apply_filters() /home/abdulhadi/Local Sites/eduslack/app/public/wp-includes/class-wp-hook.php:311
+[21-Jul-2020 19:56:15 UTC] PHP   9. eduslack_features() /home/abdulhadi/Local Sites/eduslack/app/public/wp-includes/class-wp-hook.php:287
+[21-Jul-2020 19:56:15 UTC] PHP  10. register_nav_menus() /home/abdulhadi/Local Sites/eduslack/app/public/wp-content/themes/eduslack-theme/functions.php:15
+[21-Jul-2020 19:56:15 UTC] PHP Warning:  array_merge(): Expected parameter 2 to be an array, string given in /home/abdulhadi/Local Sites/eduslack/app/public/wp-includes/nav-menu.php on line 102
+[21-Jul-2020 19:56:15 UTC] PHP Stack trace:
+[21-Jul-2020 19:56:15 UTC] PHP   1. {main}() /home/abdulhadi/Local Sites/eduslack/app/public/wp-admin/edit.php:0
+[21-Jul-2020 19:56:15 UTC] PHP   2. require_once() /home/abdulhadi/Local Sites/eduslack/app/public/wp-admin/edit.php:10
+[21-Jul-2020 19:56:15 UTC] PHP   3. require_once() /home/abdulhadi/Local Sites/eduslack/app/public/wp-admin/admin.php:34
+[21-Jul-2020 19:56:15 UTC] PHP   4. require_once() /home/abdulhadi/Local Sites/eduslack/app/public/wp-load.php:37
+[21-Jul-2020 19:56:15 UTC] PHP   5. require_once() /home/abdulhadi/Local Sites/eduslack/app/public/wp-config.php:77
+[21-Jul-2020 19:56:15 UTC] PHP   6. do_action() /home/abdulhadi/Local Sites/eduslack/app/public/wp-settings.php:518
+[21-Jul-2020 19:56:15 UTC] PHP   7. WP_Hook->do_action() /home/abdulhadi/Local Sites/eduslack/app/public/wp-includes/plugin.php:478
+[21-Jul-2020 19:56:15 UTC] PHP   8. WP_Hook->apply_filters() /home/abdulhadi/Local Sites/eduslack/app/public/wp-includes/class-wp-hook.php:311
+[21-Jul-2020 19:56:15 UTC] PHP   9. eduslack_features() /home/abdulhadi/Local Sites/eduslack/app/public/wp-includes/class-wp-hook.php:287
+[21-Jul-2020 19:56:15 UTC] PHP  10. register_nav_menus() /home/abdulhadi/Local Sites/eduslack/app/public/wp-content/themes/eduslack-theme/functions.php:15
+[21-Jul-2020 19:56:15 UTC] PHP  11. array_merge() /home/abdulhadi/Local Sites/eduslack/app/public/wp-includes/nav-menu.php:102
+[21-Jul-2020 19:56:15 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/abdulhadi/Local Sites/eduslack/app/public/wp-includes/nav-menu.php:95) in /home/abdulhadi/Local Sites/eduslack/app/public/wp-includes/functions.php on line 6221
+[21-Jul-2020 19:56:15 UTC] PHP Stack trace:
+[21-Jul-2020 19:56:15 UTC] PHP   1. {main}() /home/abdulhadi/Local Sites/eduslack/app/public/wp-admin/edit.php:0
+[21-Jul-2020 19:56:15 UTC] PHP   2. require_once() /home/abdulhadi/Local Sites/eduslack/app/public/wp-admin/edit.php:10
+[21-Jul-2020 19:56:15 UTC] PHP   3. do_action() /home/abdulhadi/Local Sites/eduslack/app/public/wp-admin/admin.php:170
+[21-Jul-2020 19:56:15 UTC] PHP   4. WP_Hook->do_action() /home/abdulhadi/Local Sites/eduslack/app/public/wp-includes/plugin.php:478
+[21-Jul-2020 19:56:15 UTC] PHP   5. WP_Hook->apply_filters() /home/abdulhadi/Local Sites/eduslack/app/public/wp-includes/class-wp-hook.php:311
+[21-Jul-2020 19:56:15 UTC] PHP   6. send_frame_options_header() /home/abdulhadi/Local Sites/eduslack/app/public/wp-includes/class-wp-hook.php:285
+[21-Jul-2020 19:56:15 UTC] PHP   7. header() /home/abdulhadi/Local Sites/eduslack/app/public/wp-includes/functions.php:6221
+[21-Jul-2020 19:56:15 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/abdulhadi/Local Sites/eduslack/app/public/wp-includes/nav-menu.php:95) in /home/abdulhadi/Local Sites/eduslack/app/public/wp-admin/includes/misc.php on line 1282
+[21-Jul-2020 19:56:15 UTC] PHP Stack trace:
+[21-Jul-2020 19:56:15 UTC] PHP   1. {main}() /home/abdulhadi/Local Sites/eduslack/app/public/wp-admin/edit.php:0
+[21-Jul-2020 19:56:15 UTC] PHP   2. require_once() /home/abdulhadi/Local Sites/eduslack/app/public/wp-admin/edit.php:10
+[21-Jul-2020 19:56:15 UTC] PHP   3. do_action() /home/abdulhadi/Local Sites/eduslack/app/public/wp-admin/admin.php:170
+[21-Jul-2020 19:56:15 UTC] PHP   4. WP_Hook->do_action() /home/abdulhadi/Local Sites/eduslack/app/public/wp-includes/plugin.php:478
+[21-Jul-2020 19:56:15 UTC] PHP   5. WP_Hook->apply_filters() /home/abdulhadi/Local Sites/eduslack/app/public/wp-includes/class-wp-hook.php:311
+[21-Jul-2020 19:56:15 UTC] PHP   6. wp_admin_headers() /home/abdulhadi/Local Sites/eduslack/app/public/wp-includes/class-wp-hook.php:287
+[21-Jul-2020 19:56:15 UTC] PHP   7. header() /home/abdulhadi/Local Sites/eduslack/app/public/wp-admin/includes/misc.php:1282
+[21-Jul-2020 19:56:15 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/abdulhadi/Local Sites/eduslack/app/public/wp-includes/nav-menu.php:95) in /home/abdulhadi/Local Sites/eduslack/app/public/wp-admin/admin-header.php on line 9
+[21-Jul-2020 19:56:15 UTC] PHP Stack trace:
+[21-Jul-2020 19:56:15 UTC] PHP   1. {main}() /home/abdulhadi/Local Sites/eduslack/app/public/wp-admin/edit.php:0
+[21-Jul-2020 19:56:15 UTC] PHP   2. require_once() /home/abdulhadi/Local Sites/eduslack/app/public/wp-admin/edit.php:386
+[21-Jul-2020 19:56:15 UTC] PHP   3. header() /home/abdulhadi/Local Sites/eduslack/app/public/wp-admin/admin-header.php:9
+[21-Jul-2020 19:56:15 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/abdulhadi/Local Sites/eduslack/app/public/wp-includes/nav-menu.php:95) in /home/abdulhadi/Local Sites/eduslack/app/public/wp-includes/option.php on line 961
+[21-Jul-2020 19:56:15 UTC] PHP Stack trace:
+[21-Jul-2020 19:56:15 UTC] PHP   1. {main}() /home/abdulhadi/Local Sites/eduslack/app/public/wp-admin/edit.php:0
+[21-Jul-2020 19:56:15 UTC] PHP   2. require_once() /home/abdulhadi/Local Sites/eduslack/app/public/wp-admin/edit.php:386
+[21-Jul-2020 19:56:15 UTC] PHP   3. wp_user_settings() /home/abdulhadi/Local Sites/eduslack/app/public/wp-admin/admin-header.php:70
+[21-Jul-2020 19:56:15 UTC] PHP   4. setcookie() /home/abdulhadi/Local Sites/eduslack/app/public/wp-includes/option.php:961
+[21-Jul-2020 19:56:15 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/abdulhadi/Local Sites/eduslack/app/public/wp-includes/nav-menu.php:95) in /home/abdulhadi/Local Sites/eduslack/app/public/wp-includes/option.php on line 962
+[21-Jul-2020 19:56:15 UTC] PHP Stack trace:
+[21-Jul-2020 19:56:15 UTC] PHP   1. {main}() /home/abdulhadi/Local Sites/eduslack/app/public/wp-admin/edit.php:0
+[21-Jul-2020 19:56:15 UTC] PHP   2. require_once() /home/abdulhadi/Local Sites/eduslack/app/public/wp-admin/edit.php:386
+[21-Jul-2020 19:56:15 UTC] PHP   3. wp_user_settings() /home/abdulhadi/Local Sites/eduslack/app/public/wp-admin/admin-header.php:70
+[21-Jul-2020 19:56:15 UTC] PHP   4. setcookie() /home/abdulhadi/Local Sites/eduslack/app/public/wp-includes/option.php:962
+[21-Jul-2020 19:56:15 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/abdulhadi/Local Sites/eduslack/app/public/wp-includes/nav-menu.php on line 95
+[21-Jul-2020 19:56:15 UTC] PHP Stack trace:
+[21-Jul-2020 19:56:15 UTC] PHP   1. {main}() /home/abdulhadi/Local Sites/eduslack/app/public/wp-admin/admin-ajax.php:0
+[21-Jul-2020 19:56:15 UTC] PHP   2. require_once() /home/abdulhadi/Local Sites/eduslack/app/public/wp-admin/admin-ajax.php:22
+[21-Jul-2020 19:56:15 UTC] PHP   3. require_once() /home/abdulhadi/Local Sites/eduslack/app/public/wp-load.php:37
+[21-Jul-2020 19:56:15 UTC] PHP   4. require_once() /home/abdulhadi/Local Sites/eduslack/app/public/wp-config.php:77
+[21-Jul-2020 19:56:15 UTC] PHP   5. do_action() /home/abdulhadi/Local Sites/eduslack/app/public/wp-settings.php:518
+[21-Jul-2020 19:56:15 UTC] PHP   6. WP_Hook->do_action() /home/abdulhadi/Local Sites/eduslack/app/public/wp-includes/plugin.php:478
+[21-Jul-2020 19:56:15 UTC] PHP   7. WP_Hook->apply_filters() /home/abdulhadi/Local Sites/eduslack/app/public/wp-includes/class-wp-hook.php:311
+[21-Jul-2020 19:56:15 UTC] PHP   8. eduslack_features() /home/abdulhadi/Local Sites/eduslack/app/public/wp-includes/class-wp-hook.php:287
+[21-Jul-2020 19:56:15 UTC] PHP   9. register_nav_menus() /home/abdulhadi/Local Sites/eduslack/app/public/wp-content/themes/eduslack-theme/functions.php:15
+[21-Jul-2020 19:56:15 UTC] PHP Warning:  array_merge(): Expected parameter 2 to be an array, string given in /home/abdulhadi/Local Sites/eduslack/app/public/wp-includes/nav-menu.php on line 102
+[21-Jul-2020 19:56:15 UTC] PHP Stack trace:
+[21-Jul-2020 19:56:15 UTC] PHP   1. {main}() /home/abdulhadi/Local Sites/eduslack/app/public/wp-admin/admin-ajax.php:0
+[21-Jul-2020 19:56:15 UTC] PHP   2. require_once() /home/abdulhadi/Local Sites/eduslack/app/public/wp-admin/admin-ajax.php:22
+[21-Jul-2020 19:56:15 UTC] PHP   3. require_once() /home/abdulhadi/Local Sites/eduslack/app/public/wp-load.php:37
+[21-Jul-2020 19:56:15 UTC] PHP   4. require_once() /home/abdulhadi/Local Sites/eduslack/app/public/wp-config.php:77
+[21-Jul-2020 19:56:15 UTC] PHP   5. do_action() /home/abdulhadi/Local Sites/eduslack/app/public/wp-settings.php:518
+[21-Jul-2020 19:56:15 UTC] PHP   6. WP_Hook->do_action() /home/abdulhadi/Local Sites/eduslack/app/public/wp-includes/plugin.php:478
+[21-Jul-2020 19:56:15 UTC] PHP   7. WP_Hook->apply_filters() /home/abdulhadi/Local Sites/eduslack/app/public/wp-includes/class-wp-hook.php:311
+[21-Jul-2020 19:56:15 UTC] PHP   8. eduslack_features() /home/abdulhadi/Local Sites/eduslack/app/public/wp-includes/class-wp-hook.php:287
+[21-Jul-2020 19:56:15 UTC] PHP   9. register_nav_menus() /home/abdulhadi/Local Sites/eduslack/app/public/wp-content/themes/eduslack-theme/functions.php:15
+[21-Jul-2020 19:56:15 UTC] PHP  10. array_merge() /home/abdulhadi/Local Sites/eduslack/app/public/wp-includes/nav-menu.php:102
+[21-Jul-2020 19:56:16 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/abdulhadi/Local Sites/eduslack/app/public/wp-includes/nav-menu.php on line 95
+[21-Jul-2020 19:56:16 UTC] PHP Stack trace:
+[21-Jul-2020 19:56:16 UTC] PHP   1. {main}() /home/abdulhadi/Local Sites/eduslack/app/public/wp-admin/edit.php:0
+[21-Jul-2020 19:56:16 UTC] PHP   2. require_once() /home/abdulhadi/Local Sites/eduslack/app/public/wp-admin/edit.php:10
+[21-Jul-2020 19:56:16 UTC] PHP   3. require_once() /home/abdulhadi/Local Sites/eduslack/app/public/wp-admin/admin.php:34
+[21-Jul-2020 19:56:16 UTC] PHP   4. require_once() /home/abdulhadi/Local Sites/eduslack/app/public/wp-load.php:37
+[21-Jul-2020 19:56:16 UTC] PHP   5. require_once() /home/abdulhadi/Local Sites/eduslack/app/public/wp-config.php:77
+[21-Jul-2020 19:56:16 UTC] PHP   6. do_action() /home/abdulhadi/Local Sites/eduslack/app/public/wp-settings.php:518
+[21-Jul-2020 19:56:16 UTC] PHP   7. WP_Hook->do_action() /home/abdulhadi/Local Sites/eduslack/app/public/wp-includes/plugin.php:478
+[21-Jul-2020 19:56:16 UTC] PHP   8. WP_Hook->apply_filters() /home/abdulhadi/Local Sites/eduslack/app/public/wp-includes/class-wp-hook.php:311
+[21-Jul-2020 19:56:16 UTC] PHP   9. eduslack_features() /home/abdulhadi/Local Sites/eduslack/app/public/wp-includes/class-wp-hook.php:287
+[21-Jul-2020 19:56:16 UTC] PHP  10. register_nav_menus() /home/abdulhadi/Local Sites/eduslack/app/public/wp-content/themes/eduslack-theme/functions.php:15
+[21-Jul-2020 19:56:16 UTC] PHP Warning:  array_merge(): Expected parameter 2 to be an array, string given in /home/abdulhadi/Local Sites/eduslack/app/public/wp-includes/nav-menu.php on line 102
+[21-Jul-2020 19:56:16 UTC] PHP Stack trace:
+[21-Jul-2020 19:56:16 UTC] PHP   1. {main}() /home/abdulhadi/Local Sites/eduslack/app/public/wp-admin/edit.php:0
+[21-Jul-2020 19:56:16 UTC] PHP   2. require_once() /home/abdulhadi/Local Sites/eduslack/app/public/wp-admin/edit.php:10
+[21-Jul-2020 19:56:16 UTC] PHP   3. require_once() /home/abdulhadi/Local Sites/eduslack/app/public/wp-admin/admin.php:34
+[21-Jul-2020 19:56:16 UTC] PHP   4. require_once() /home/abdulhadi/Local Sites/eduslack/app/public/wp-load.php:37
+[21-Jul-2020 19:56:16 UTC] PHP   5. require_once() /home/abdulhadi/Local Sites/eduslack/app/public/wp-config.php:77
+[21-Jul-2020 19:56:16 UTC] PHP   6. do_action() /home/abdulhadi/Local Sites/eduslack/app/public/wp-settings.php:518
+[21-Jul-2020 19:56:16 UTC] PHP   7. WP_Hook->do_action() /home/abdulhadi/Local Sites/eduslack/app/public/wp-includes/plugin.php:478
+[21-Jul-2020 19:56:16 UTC] PHP   8. WP_Hook->apply_filters() /home/abdulhadi/Local Sites/eduslack/app/public/wp-includes/class-wp-hook.php:311
+[21-Jul-2020 19:56:16 UTC] PHP   9. eduslack_features() /home/abdulhadi/Local Sites/eduslack/app/public/wp-includes/class-wp-hook.php:287
+[21-Jul-2020 19:56:16 UTC] PHP  10. register_nav_menus() /home/abdulhadi/Local Sites/eduslack/app/public/wp-content/themes/eduslack-theme/functions.php:15
+[21-Jul-2020 19:56:16 UTC] PHP  11. array_merge() /home/abdulhadi/Local Sites/eduslack/app/public/wp-includes/nav-menu.php:102
+[21-Jul-2020 19:56:16 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/abdulhadi/Local Sites/eduslack/app/public/wp-includes/nav-menu.php:95) in /home/abdulhadi/Local Sites/eduslack/app/public/wp-includes/functions.php on line 6221
+[21-Jul-2020 19:56:16 UTC] PHP Stack trace:
+[21-Jul-2020 19:56:16 UTC] PHP   1. {main}() /home/abdulhadi/Local Sites/eduslack/app/public/wp-admin/edit.php:0
+[21-Jul-2020 19:56:16 UTC] PHP   2. require_once() /home/abdulhadi/Local Sites/eduslack/app/public/wp-admin/edit.php:10
+[21-Jul-2020 19:56:16 UTC] PHP   3. do_action() /home/abdulhadi/Local Sites/eduslack/app/public/wp-admin/admin.php:170
+[21-Jul-2020 19:56:16 UTC] PHP   4. WP_Hook->do_action() /home/abdulhadi/Local Sites/eduslack/app/public/wp-includes/plugin.php:478
+[21-Jul-2020 19:56:16 UTC] PHP   5. WP_Hook->apply_filters() /home/abdulhadi/Local Sites/eduslack/app/public/wp-includes/class-wp-hook.php:311
+[21-Jul-2020 19:56:16 UTC] PHP   6. send_frame_options_header() /home/abdulhadi/Local Sites/eduslack/app/public/wp-includes/class-wp-hook.php:285
+[21-Jul-2020 19:56:16 UTC] PHP   7. header() /home/abdulhadi/Local Sites/eduslack/app/public/wp-includes/functions.php:6221
+[21-Jul-2020 19:56:16 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/abdulhadi/Local Sites/eduslack/app/public/wp-includes/nav-menu.php:95) in /home/abdulhadi/Local Sites/eduslack/app/public/wp-admin/includes/misc.php on line 1282
+[21-Jul-2020 19:56:16 UTC] PHP Stack trace:
+[21-Jul-2020 19:56:16 UTC] PHP   1. {main}() /home/abdulhadi/Local Sites/eduslack/app/public/wp-admin/edit.php:0
+[21-Jul-2020 19:56:16 UTC] PHP   2. require_once() /home/abdulhadi/Local Sites/eduslack/app/public/wp-admin/edit.php:10
+[21-Jul-2020 19:56:16 UTC] PHP   3. do_action() /home/abdulhadi/Local Sites/eduslack/app/public/wp-admin/admin.php:170
+[21-Jul-2020 19:56:16 UTC] PHP   4. WP_Hook->do_action() /home/abdulhadi/Local Sites/eduslack/app/public/wp-includes/plugin.php:478
+[21-Jul-2020 19:56:16 UTC] PHP   5. WP_Hook->apply_filters() /home/abdulhadi/Local Sites/eduslack/app/public/wp-includes/class-wp-hook.php:311
+[21-Jul-2020 19:56:16 UTC] PHP   6. wp_admin_headers() /home/abdulhadi/Local Sites/eduslack/app/public/wp-includes/class-wp-hook.php:287
+[21-Jul-2020 19:56:16 UTC] PHP   7. header() /home/abdulhadi/Local Sites/eduslack/app/public/wp-admin/includes/misc.php:1282
+[21-Jul-2020 19:56:16 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/abdulhadi/Local Sites/eduslack/app/public/wp-includes/nav-menu.php:95) in /home/abdulhadi/Local Sites/eduslack/app/public/wp-admin/admin-header.php on line 9
+[21-Jul-2020 19:56:16 UTC] PHP Stack trace:
+[21-Jul-2020 19:56:16 UTC] PHP   1. {main}() /home/abdulhadi/Local Sites/eduslack/app/public/wp-admin/edit.php:0
+[21-Jul-2020 19:56:16 UTC] PHP   2. require_once() /home/abdulhadi/Local Sites/eduslack/app/public/wp-admin/edit.php:386
+[21-Jul-2020 19:56:16 UTC] PHP   3. header() /home/abdulhadi/Local Sites/eduslack/app/public/wp-admin/admin-header.php:9
+[21-Jul-2020 19:56:16 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/abdulhadi/Local Sites/eduslack/app/public/wp-includes/nav-menu.php:95) in /home/abdulhadi/Local Sites/eduslack/app/public/wp-includes/option.php on line 961
+[21-Jul-2020 19:56:16 UTC] PHP Stack trace:
+[21-Jul-2020 19:56:16 UTC] PHP   1. {main}() /home/abdulhadi/Local Sites/eduslack/app/public/wp-admin/edit.php:0
+[21-Jul-2020 19:56:16 UTC] PHP   2. require_once() /home/abdulhadi/Local Sites/eduslack/app/public/wp-admin/edit.php:386
+[21-Jul-2020 19:56:16 UTC] PHP   3. wp_user_settings() /home/abdulhadi/Local Sites/eduslack/app/public/wp-admin/admin-header.php:70
+[21-Jul-2020 19:56:16 UTC] PHP   4. setcookie() /home/abdulhadi/Local Sites/eduslack/app/public/wp-includes/option.php:961
+[21-Jul-2020 19:56:16 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/abdulhadi/Local Sites/eduslack/app/public/wp-includes/nav-menu.php:95) in /home/abdulhadi/Local Sites/eduslack/app/public/wp-includes/option.php on line 962
+[21-Jul-2020 19:56:16 UTC] PHP Stack trace:
+[21-Jul-2020 19:56:16 UTC] PHP   1. {main}() /home/abdulhadi/Local Sites/eduslack/app/public/wp-admin/edit.php:0
+[21-Jul-2020 19:56:16 UTC] PHP   2. require_once() /home/abdulhadi/Local Sites/eduslack/app/public/wp-admin/edit.php:386
+[21-Jul-2020 19:56:16 UTC] PHP   3. wp_user_settings() /home/abdulhadi/Local Sites/eduslack/app/public/wp-admin/admin-header.php:70
+[21-Jul-2020 19:56:16 UTC] PHP   4. setcookie() /home/abdulhadi/Local Sites/eduslack/app/public/wp-includes/option.php:962
+[21-Jul-2020 19:56:16 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/abdulhadi/Local Sites/eduslack/app/public/wp-includes/nav-menu.php on line 95
+[21-Jul-2020 19:56:16 UTC] PHP Stack trace:
+[21-Jul-2020 19:56:16 UTC] PHP   1. {main}() /home/abdulhadi/Local Sites/eduslack/app/public/wp-admin/admin-ajax.php:0
+[21-Jul-2020 19:56:16 UTC] PHP   2. require_once() /home/abdulhadi/Local Sites/eduslack/app/public/wp-admin/admin-ajax.php:22
+[21-Jul-2020 19:56:16 UTC] PHP   3. require_once() /home/abdulhadi/Local Sites/eduslack/app/public/wp-load.php:37
+[21-Jul-2020 19:56:16 UTC] PHP   4. require_once() /home/abdulhadi/Local Sites/eduslack/app/public/wp-config.php:77
+[21-Jul-2020 19:56:16 UTC] PHP   5. do_action() /home/abdulhadi/Local Sites/eduslack/app/public/wp-settings.php:518
+[21-Jul-2020 19:56:16 UTC] PHP   6. WP_Hook->do_action() /home/abdulhadi/Local Sites/eduslack/app/public/wp-includes/plugin.php:478
+[21-Jul-2020 19:56:16 UTC] PHP   7. WP_Hook->apply_filters() /home/abdulhadi/Local Sites/eduslack/app/public/wp-includes/class-wp-hook.php:311
+[21-Jul-2020 19:56:16 UTC] PHP   8. eduslack_features() /home/abdulhadi/Local Sites/eduslack/app/public/wp-includes/class-wp-hook.php:287
+[21-Jul-2020 19:56:16 UTC] PHP   9. register_nav_menus() /home/abdulhadi/Local Sites/eduslack/app/public/wp-content/themes/eduslack-theme/functions.php:15
+[21-Jul-2020 19:56:16 UTC] PHP Warning:  array_merge(): Expected parameter 2 to be an array, string given in /home/abdulhadi/Local Sites/eduslack/app/public/wp-includes/nav-menu.php on line 102
+[21-Jul-2020 19:56:16 UTC] PHP Stack trace:
+[21-Jul-2020 19:56:16 UTC] PHP   1. {main}() /home/abdulhadi/Local Sites/eduslack/app/public/wp-admin/admin-ajax.php:0
+[21-Jul-2020 19:56:16 UTC] PHP   2. require_once() /home/abdulhadi/Local Sites/eduslack/app/public/wp-admin/admin-ajax.php:22
+[21-Jul-2020 19:56:16 UTC] PHP   3. require_once() /home/abdulhadi/Local Sites/eduslack/app/public/wp-load.php:37
+[21-Jul-2020 19:56:16 UTC] PHP   4. require_once() /home/abdulhadi/Local Sites/eduslack/app/public/wp-config.php:77
+[21-Jul-2020 19:56:16 UTC] PHP   5. do_action() /home/abdulhadi/Local Sites/eduslack/app/public/wp-settings.php:518
+[21-Jul-2020 19:56:16 UTC] PHP   6. WP_Hook->do_action() /home/abdulhadi/Local Sites/eduslack/app/public/wp-includes/plugin.php:478
+[21-Jul-2020 19:56:16 UTC] PHP   7. WP_Hook->apply_filters() /home/abdulhadi/Local Sites/eduslack/app/public/wp-includes/class-wp-hook.php:311
+[21-Jul-2020 19:56:16 UTC] PHP   8. eduslack_features() /home/abdulhadi/Local Sites/eduslack/app/public/wp-includes/class-wp-hook.php:287
+[21-Jul-2020 19:56:16 UTC] PHP   9. register_nav_menus() /home/abdulhadi/Local Sites/eduslack/app/public/wp-content/themes/eduslack-theme/functions.php:15
+[21-Jul-2020 19:56:16 UTC] PHP  10. array_merge() /home/abdulhadi/Local Sites/eduslack/app/public/wp-includes/nav-menu.php:102
+[21-Jul-2020 19:56:18 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/abdulhadi/Local Sites/eduslack/app/public/wp-includes/nav-menu.php on line 95
+[21-Jul-2020 19:56:18 UTC] PHP Stack trace:
+[21-Jul-2020 19:56:18 UTC] PHP   1. {main}() /home/abdulhadi/Local Sites/eduslack/app/public/index.php:0
+[21-Jul-2020 19:56:18 UTC] PHP   2. require() /home/abdulhadi/Local Sites/eduslack/app/public/index.php:17
+[21-Jul-2020 19:56:18 UTC] PHP   3. require_once() /home/abdulhadi/Local Sites/eduslack/app/public/wp-blog-header.php:13
+[21-Jul-2020 19:56:18 UTC] PHP   4. require_once() /home/abdulhadi/Local Sites/eduslack/app/public/wp-load.php:37
+[21-Jul-2020 19:56:18 UTC] PHP   5. require_once() /home/abdulhadi/Local Sites/eduslack/app/public/wp-config.php:77
+[21-Jul-2020 19:56:18 UTC] PHP   6. do_action() /home/abdulhadi/Local Sites/eduslack/app/public/wp-settings.php:518
+[21-Jul-2020 19:56:18 UTC] PHP   7. WP_Hook->do_action() /home/abdulhadi/Local Sites/eduslack/app/public/wp-includes/plugin.php:478
+[21-Jul-2020 19:56:18 UTC] PHP   8. WP_Hook->apply_filters() /home/abdulhadi/Local Sites/eduslack/app/public/wp-includes/class-wp-hook.php:311
+[21-Jul-2020 19:56:18 UTC] PHP   9. eduslack_features() /home/abdulhadi/Local Sites/eduslack/app/public/wp-includes/class-wp-hook.php:287
+[21-Jul-2020 19:56:18 UTC] PHP  10. register_nav_menus() /home/abdulhadi/Local Sites/eduslack/app/public/wp-content/themes/eduslack-theme/functions.php:15
+[21-Jul-2020 19:56:18 UTC] PHP Warning:  array_merge(): Expected parameter 2 to be an array, string given in /home/abdulhadi/Local Sites/eduslack/app/public/wp-includes/nav-menu.php on line 102
+[21-Jul-2020 19:56:18 UTC] PHP Stack trace:
+[21-Jul-2020 19:56:18 UTC] PHP   1. {main}() /home/abdulhadi/Local Sites/eduslack/app/public/index.php:0
+[21-Jul-2020 19:56:18 UTC] PHP   2. require() /home/abdulhadi/Local Sites/eduslack/app/public/index.php:17
+[21-Jul-2020 19:56:18 UTC] PHP   3. require_once() /home/abdulhadi/Local Sites/eduslack/app/public/wp-blog-header.php:13
+[21-Jul-2020 19:56:18 UTC] PHP   4. require_once() /home/abdulhadi/Local Sites/eduslack/app/public/wp-load.php:37
+[21-Jul-2020 19:56:18 UTC] PHP   5. require_once() /home/abdulhadi/Local Sites/eduslack/app/public/wp-config.php:77
+[21-Jul-2020 19:56:18 UTC] PHP   6. do_action() /home/abdulhadi/Local Sites/eduslack/app/public/wp-settings.php:518
+[21-Jul-2020 19:56:18 UTC] PHP   7. WP_Hook->do_action() /home/abdulhadi/Local Sites/eduslack/app/public/wp-includes/plugin.php:478
+[21-Jul-2020 19:56:18 UTC] PHP   8. WP_Hook->apply_filters() /home/abdulhadi/Local Sites/eduslack/app/public/wp-includes/class-wp-hook.php:311
+[21-Jul-2020 19:56:18 UTC] PHP   9. eduslack_features() /home/abdulhadi/Local Sites/eduslack/app/public/wp-includes/class-wp-hook.php:287
+[21-Jul-2020 19:56:18 UTC] PHP  10. register_nav_menus() /home/abdulhadi/Local Sites/eduslack/app/public/wp-content/themes/eduslack-theme/functions.php:15
+[21-Jul-2020 19:56:18 UTC] PHP  11. array_merge() /home/abdulhadi/Local Sites/eduslack/app/public/wp-includes/nav-menu.php:102
+[21-Jul-2020 20:25:04 UTC] PHP Parse error:  syntax error, unexpected 'footerLocationTwo' (T_STRING), expecting ')' in /home/abdulhadi/Local Sites/eduslack/app/public/wp-content/themes/eduslack-theme/functions.php on line 17
+[21-Jul-2020 20:27:04 UTC] PHP Parse error:  syntax error, unexpected 'footerLocationTwo' (T_STRING), expecting ')' in /home/abdulhadi/Local Sites/eduslack/app/public/wp-content/themes/eduslack-theme/functions.php on line 17
+[21-Jul-2020 20:27:50 UTC] PHP Parse error:  syntax error, unexpected 'footerLocationTwo' (T_STRING), expecting ')' in /home/abdulhadi/Local Sites/eduslack/app/public/wp-content/themes/eduslack-theme/functions.php on line 17
+[21-Jul-2020 20:37:59 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/abdulhadi/Local Sites/eduslack/app/public/wp-content/themes/eduslack-theme/header.php on line 22
+[22-Jul-2020 12:18:03 UTC] PHP Warning:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/forums/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in /home/abdulhadi/Local Sites/eduslack/app/public/wp-admin/includes/translation-install.php on line 68
+[22-Jul-2020 12:18:03 UTC] PHP Stack trace:
+[22-Jul-2020 12:18:03 UTC] PHP   1. {main}() /home/abdulhadi/Local Sites/eduslack/app/public/wp-admin/options-general.php:0
+[22-Jul-2020 12:18:03 UTC] PHP   2. wp_get_available_translations() /home/abdulhadi/Local Sites/eduslack/app/public/wp-admin/options-general.php:159
+[22-Jul-2020 12:18:03 UTC] PHP   3. translations_api() /home/abdulhadi/Local Sites/eduslack/app/public/wp-admin/includes/translation-install.php:133
+[22-Jul-2020 12:18:03 UTC] PHP   4. trigger_error() /home/abdulhadi/Local Sites/eduslack/app/public/wp-admin/includes/translation-install.php:68
+[23-Jul-2020 07:46:36 UTC] PHP Warning:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/forums/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in /home/abdulhadi/Local Sites/eduslack/app/public/wp-includes/update.php on line 162
+[23-Jul-2020 07:46:36 UTC] PHP Stack trace:
+[23-Jul-2020 07:46:36 UTC] PHP   1. {main}() /home/abdulhadi/Local Sites/eduslack/app/public/wp-cron.php:0
+[23-Jul-2020 07:46:36 UTC] PHP   2. do_action_ref_array() /home/abdulhadi/Local Sites/eduslack/app/public/wp-cron.php:138
+[23-Jul-2020 07:46:36 UTC] PHP   3. WP_Hook->do_action() /home/abdulhadi/Local Sites/eduslack/app/public/wp-includes/plugin.php:544
+[23-Jul-2020 07:46:36 UTC] PHP   4. WP_Hook->apply_filters() /home/abdulhadi/Local Sites/eduslack/app/public/wp-includes/class-wp-hook.php:311
+[23-Jul-2020 07:46:36 UTC] PHP   5. wp_version_check() /home/abdulhadi/Local Sites/eduslack/app/public/wp-includes/class-wp-hook.php:287
+[23-Jul-2020 07:46:36 UTC] PHP   6. trigger_error() /home/abdulhadi/Local Sites/eduslack/app/public/wp-includes/update.php:162
+[23-Jul-2020 07:46:37 UTC] PHP Warning:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/forums/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in /home/abdulhadi/Local Sites/eduslack/app/public/wp-includes/update.php on line 388
+[23-Jul-2020 07:46:37 UTC] PHP Stack trace:
+[23-Jul-2020 07:46:37 UTC] PHP   1. {main}() /home/abdulhadi/Local Sites/eduslack/app/public/wp-cron.php:0
+[23-Jul-2020 07:46:37 UTC] PHP   2. do_action_ref_array() /home/abdulhadi/Local Sites/eduslack/app/public/wp-cron.php:138
+[23-Jul-2020 07:46:37 UTC] PHP   3. WP_Hook->do_action() /home/abdulhadi/Local Sites/eduslack/app/public/wp-includes/plugin.php:544
+[23-Jul-2020 07:46:37 UTC] PHP   4. WP_Hook->apply_filters() /home/abdulhadi/Local Sites/eduslack/app/public/wp-includes/class-wp-hook.php:311
+[23-Jul-2020 07:46:37 UTC] PHP   5. wp_update_plugins() /home/abdulhadi/Local Sites/eduslack/app/public/wp-includes/class-wp-hook.php:287
+[23-Jul-2020 07:46:37 UTC] PHP   6. trigger_error() /home/abdulhadi/Local Sites/eduslack/app/public/wp-includes/update.php:388
+[23-Jul-2020 07:46:37 UTC] PHP Warning:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/forums/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in /home/abdulhadi/Local Sites/eduslack/app/public/wp-includes/update.php on line 578
+[23-Jul-2020 07:46:37 UTC] PHP Stack trace:
+[23-Jul-2020 07:46:37 UTC] PHP   1. {main}() /home/abdulhadi/Local Sites/eduslack/app/public/wp-cron.php:0
+[23-Jul-2020 07:46:37 UTC] PHP   2. do_action_ref_array() /home/abdulhadi/Local Sites/eduslack/app/public/wp-cron.php:138
+[23-Jul-2020 07:46:37 UTC] PHP   3. WP_Hook->do_action() /home/abdulhadi/Local Sites/eduslack/app/public/wp-includes/plugin.php:544
+[23-Jul-2020 07:46:37 UTC] PHP   4. WP_Hook->apply_filters() /home/abdulhadi/Local Sites/eduslack/app/public/wp-includes/class-wp-hook.php:311
+[23-Jul-2020 07:46:37 UTC] PHP   5. wp_update_themes() /home/abdulhadi/Local Sites/eduslack/app/public/wp-includes/class-wp-hook.php:287
+[23-Jul-2020 07:46:37 UTC] PHP   6. trigger_error() /home/abdulhadi/Local Sites/eduslack/app/public/wp-includes/update.php:578
+[01-Aug-2020 07:58:01 UTC] WordPress database error Server shutdown in progress for query UPDATE `wp_options` SET `option_value` = 'a:7:{i:1595517754;a:1:{s:32:\"recovery_mode_clean_expired_keys\";a:1:{s:32:\"40cd750bba9870f18aada2478b24840a\";a:3:{s:8:\"schedule\";s:5:\"daily\";s:4:\"args\";a:0:{}s:8:\"interval\";i:86400;}}}i:1595517756;a:3:{s:16:\"wp_version_check\";a:1:{s:32:\"40cd750bba9870f18aada2478b24840a\";a:3:{s:8:\"schedule\";s:10:\"twicedaily\";s:4:\"args\";a:0:{}s:8:\"interval\";i:43200;}}s:17:\"wp_update_plugins\";a:1:{s:32:\"40cd750bba9870f18aada2478b24840a\";a:3:{s:8:\"schedule\";s:10:\"twicedaily\";s:4:\"args\";a:0:{}s:8:\"interval\";i:43200;}}s:16:\"wp_update_themes\";a:1:{s:32:\"40cd750bba9870f18aada2478b24840a\";a:3:{s:8:\"schedule\";s:10:\"twicedaily\";s:4:\"args\";a:0:{}s:8:\"interval\";i:43200;}}}i:1595518009;a:2:{s:19:\"wp_scheduled_delete\";a:1:{s:32:\"40cd750bba9870f18aada2478b24840a\";a:3:{s:8:\"schedule\";s:5:\"daily\";s:4:\"args\";a:0:{}s:8:\"interval\";i:86400;}}s:25:\"delete_expired_transients\";a:1:{s:32:\"40cd750bba9870f18aada2478b24840a\";a:3:{s:8:\"schedule\";s:5:\"daily\";s:4:\"args\";a:0:{}s:8:\"interval\";i:86400;}}}i:1595518014;a:1:{s:30:\"wp_scheduled_auto_draft_delete\";a:1:{s:32:\"40cd750bba9870f18aada2478b24840a\";a:3:{s:8:\"schedule\";s:5:\"daily\";s:4:\"args\";a:0:{}s:8:\"interval\";i:86400;}}}i:1595776955;a:1:{s:30:\"wp_site_health_scheduled_check\";a:1:{s:32:\"40cd750bba9870f18aada2478b24840a\";a:3:{s:8:\"schedule\";s:6:\"weekly\";s:4:\"args\";a:0:{}s:8:\"interval\";i:604800;}}}i:1596268681;a:1:{s:34:\"wp_privacy_delete_old_export_files\";a:1:{s:32:\"40cd750bba9870f18aada2478b24840a\";a:3:{s:8:\"schedule\";s:6:\"hourly\";s:4:\"args\";a:0:{}s:8:\"interval\";i:3600;}}}s:7:\"version\";i:2;}' WHERE `option_name` = 'cron' made by require_once('wp-load.php'), require_once('wp-config.php'), require_once('wp-settings.php'), do_action('init'), WP_Hook->do_action, WP_Hook->apply_filters, wp_schedule_delete_old_privacy_export_files, wp_schedule_event, _set_cron_array, update_option
+[01-Aug-2020 07:58:01 UTC] PHP Warning:  Error while sending QUERY packet. PID=18828 in /home/abdulhadi/Local Sites/eduslack/app/public/wp-includes/wp-db.php on line 2024
+[01-Aug-2020 07:58:01 UTC] PHP Stack trace:
+[01-Aug-2020 07:58:01 UTC] PHP   1. {main}() /home/abdulhadi/Local Sites/eduslack/app/public/wp-cron.php:0
+[01-Aug-2020 07:58:01 UTC] PHP   2. wp_unschedule_event() /home/abdulhadi/Local Sites/eduslack/app/public/wp-cron.php:127
+[01-Aug-2020 07:58:01 UTC] PHP   3. _set_cron_array() /home/abdulhadi/Local Sites/eduslack/app/public/wp-includes/cron.php:379
+[01-Aug-2020 07:58:01 UTC] PHP   4. update_option() /home/abdulhadi/Local Sites/eduslack/app/public/wp-includes/cron.php:967
+[01-Aug-2020 07:58:01 UTC] PHP   5. wpdb->update() /home/abdulhadi/Local Sites/eduslack/app/public/wp-includes/option.php:390
+[01-Aug-2020 07:58:01 UTC] PHP   6. wpdb->query() /home/abdulhadi/Local Sites/eduslack/app/public/wp-includes/wp-db.php:2314
+[01-Aug-2020 07:58:01 UTC] PHP   7. wpdb->_do_query() /home/abdulhadi/Local Sites/eduslack/app/public/wp-includes/wp-db.php:1912
+[01-Aug-2020 07:58:01 UTC] PHP   8. mysqli_query() /home/abdulhadi/Local Sites/eduslack/app/public/wp-includes/wp-db.php:2024
+[01-Aug-2020 07:58:01 UTC] PHP Warning:  Error while sending QUERY packet. PID=18827 in /home/abdulhadi/Local Sites/eduslack/app/public/wp-includes/wp-db.php on line 2024
+[01-Aug-2020 07:58:01 UTC] PHP Stack trace:
+[01-Aug-2020 07:58:01 UTC] PHP   1. {main}() /home/abdulhadi/Local Sites/eduslack/app/public/wp-cron.php:0
+[01-Aug-2020 07:58:01 UTC] PHP   2. wp_reschedule_event() /home/abdulhadi/Local Sites/eduslack/app/public/wp-cron.php:124
+[01-Aug-2020 07:58:01 UTC] PHP   3. wp_schedule_event() /home/abdulhadi/Local Sites/eduslack/app/public/wp-includes/cron.php:323
+[01-Aug-2020 07:58:01 UTC] PHP   4. _set_cron_array() /home/abdulhadi/Local Sites/eduslack/app/public/wp-includes/cron.php:231
+[01-Aug-2020 07:58:01 UTC] PHP   5. update_option() /home/abdulhadi/Local Sites/eduslack/app/public/wp-includes/cron.php:967
+[01-Aug-2020 07:58:01 UTC] PHP   6. wpdb->update() /home/abdulhadi/Local Sites/eduslack/app/public/wp-includes/option.php:390
+[01-Aug-2020 07:58:01 UTC] PHP   7. wpdb->query() /home/abdulhadi/Local Sites/eduslack/app/public/wp-includes/wp-db.php:2314
+[01-Aug-2020 07:58:01 UTC] PHP   8. wpdb->_do_query() /home/abdulhadi/Local Sites/eduslack/app/public/wp-includes/wp-db.php:1912
+[01-Aug-2020 07:58:01 UTC] PHP   9. mysqli_query() /home/abdulhadi/Local Sites/eduslack/app/public/wp-includes/wp-db.php:2024
+[12-Aug-2020 10:19:40 UTC] PHP Warning:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/forums/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in /home/abdulhadi/Local Sites/eduslack/app/public/wp-includes/update.php on line 162
+[12-Aug-2020 10:19:41 UTC] PHP Stack trace:
+[12-Aug-2020 10:19:41 UTC] PHP   1. {main}() /home/abdulhadi/Local Sites/eduslack/app/public/wp-cron.php:0
+[12-Aug-2020 10:19:41 UTC] PHP   2. do_action_ref_array() /home/abdulhadi/Local Sites/eduslack/app/public/wp-cron.php:138
+[12-Aug-2020 10:19:41 UTC] PHP   3. WP_Hook->do_action() /home/abdulhadi/Local Sites/eduslack/app/public/wp-includes/plugin.php:544
+[12-Aug-2020 10:19:41 UTC] PHP   4. WP_Hook->apply_filters() /home/abdulhadi/Local Sites/eduslack/app/public/wp-includes/class-wp-hook.php:311
+[12-Aug-2020 10:19:41 UTC] PHP   5. wp_version_check() /home/abdulhadi/Local Sites/eduslack/app/public/wp-includes/class-wp-hook.php:287
+[12-Aug-2020 10:19:41 UTC] PHP   6. trigger_error() /home/abdulhadi/Local Sites/eduslack/app/public/wp-includes/update.php:162
+[12-Aug-2020 10:19:42 UTC] PHP Warning:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/forums/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in /home/abdulhadi/Local Sites/eduslack/app/public/wp-includes/update.php on line 388
+[12-Aug-2020 10:19:42 UTC] PHP Stack trace:
+[12-Aug-2020 10:19:42 UTC] PHP   1. {main}() /home/abdulhadi/Local Sites/eduslack/app/public/wp-cron.php:0
+[12-Aug-2020 10:19:42 UTC] PHP   2. do_action_ref_array() /home/abdulhadi/Local Sites/eduslack/app/public/wp-cron.php:138
+[12-Aug-2020 10:19:42 UTC] PHP   3. WP_Hook->do_action() /home/abdulhadi/Local Sites/eduslack/app/public/wp-includes/plugin.php:544
+[12-Aug-2020 10:19:42 UTC] PHP   4. WP_Hook->apply_filters() /home/abdulhadi/Local Sites/eduslack/app/public/wp-includes/class-wp-hook.php:311
+[12-Aug-2020 10:19:42 UTC] PHP   5. wp_update_plugins() /home/abdulhadi/Local Sites/eduslack/app/public/wp-includes/class-wp-hook.php:287
+[12-Aug-2020 10:19:42 UTC] PHP   6. trigger_error() /home/abdulhadi/Local Sites/eduslack/app/public/wp-includes/update.php:388
+[12-Aug-2020 10:19:45 UTC] PHP Warning:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/forums/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in /home/abdulhadi/Local Sites/eduslack/app/public/wp-includes/update.php on line 578
+[12-Aug-2020 10:19:45 UTC] PHP Stack trace:
+[12-Aug-2020 10:19:45 UTC] PHP   1. {main}() /home/abdulhadi/Local Sites/eduslack/app/public/wp-cron.php:0
+[12-Aug-2020 10:19:45 UTC] PHP   2. do_action_ref_array() /home/abdulhadi/Local Sites/eduslack/app/public/wp-cron.php:138
+[12-Aug-2020 10:19:45 UTC] PHP   3. WP_Hook->do_action() /home/abdulhadi/Local Sites/eduslack/app/public/wp-includes/plugin.php:544
+[12-Aug-2020 10:19:45 UTC] PHP   4. WP_Hook->apply_filters() /home/abdulhadi/Local Sites/eduslack/app/public/wp-includes/class-wp-hook.php:311
+[12-Aug-2020 10:19:45 UTC] PHP   5. wp_update_themes() /home/abdulhadi/Local Sites/eduslack/app/public/wp-includes/class-wp-hook.php:287
+[12-Aug-2020 10:19:45 UTC] PHP   6. trigger_error() /home/abdulhadi/Local Sites/eduslack/app/public/wp-includes/update.php:578
+[12-Aug-2020 10:27:48 UTC] PHP Warning:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/forums/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in /home/abdulhadi/Local Sites/eduslack/app/public/wp-admin/includes/translation-install.php on line 68
+[12-Aug-2020 10:27:48 UTC] PHP Stack trace:
+[12-Aug-2020 10:27:48 UTC] PHP   1. {main}() /home/abdulhadi/Local Sites/eduslack/app/public/wp-admin/options-general.php:0
+[12-Aug-2020 10:27:48 UTC] PHP   2. wp_get_available_translations() /home/abdulhadi/Local Sites/eduslack/app/public/wp-admin/options-general.php:159
+[12-Aug-2020 10:27:48 UTC] PHP   3. translations_api() /home/abdulhadi/Local Sites/eduslack/app/public/wp-admin/includes/translation-install.php:133
+[12-Aug-2020 10:27:48 UTC] PHP   4. trigger_error() /home/abdulhadi/Local Sites/eduslack/app/public/wp-admin/includes/translation-install.php:68
+[12-Aug-2020 10:35:57 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/abdulhadi/Local Sites/eduslack/app/public/wp-content/themes/eduslack-theme/index.php on line 28
+[12-Aug-2020 10:57:53 UTC] PHP Parse error:  syntax error, unexpected 'by' (T_STRING) in /home/abdulhadi/Local Sites/eduslack/app/public/wp-content/themes/eduslack-theme/single.php on line 21
+[12-Aug-2020 11:12:41 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/abdulhadi/Local Sites/eduslack/app/public/wp-content/themes/eduslack-theme/archive.php on line 11
+[12-Aug-2020 11:12:46 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/abdulhadi/Local Sites/eduslack/app/public/wp-content/themes/eduslack-theme/archive.php on line 11
+[12-Aug-2020 11:13:29 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/abdulhadi/Local Sites/eduslack/app/public/wp-content/themes/eduslack-theme/archive.php on line 11
+[12-Aug-2020 11:13:30 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/abdulhadi/Local Sites/eduslack/app/public/wp-content/themes/eduslack-theme/archive.php on line 11
+[12-Aug-2020 11:33:13 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/abdulhadi/Local Sites/eduslack/app/public/wp-content/themes/eduslack-theme/front-page.php on line 52
+[12-Aug-2020 11:33:47 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/abdulhadi/Local Sites/eduslack/app/public/wp-content/themes/eduslack-theme/front-page.php on line 52
+[12-Aug-2020 11:33:48 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/abdulhadi/Local Sites/eduslack/app/public/wp-content/themes/eduslack-theme/front-page.php on line 52
+[12-Aug-2020 11:44:39 UTC] PHP Fatal error:  Uncaught Error: Function name must be a string in /home/abdulhadi/Local Sites/eduslack/app/public/wp-content/themes/eduslack-theme/front-page.php:54
+Stack trace:
+#0 /home/abdulhadi/Local Sites/eduslack/app/public/wp-includes/template-loader.php(106): include()
+#1 /home/abdulhadi/Local Sites/eduslack/app/public/wp-blog-header.php(19): require_once('/home/abdulhadi...')
+#2 /home/abdulhadi/Local Sites/eduslack/app/public/index.php(17): require('/home/abdulhadi...')
+#3 {main}
+  thrown in /home/abdulhadi/Local Sites/eduslack/app/public/wp-content/themes/eduslack-theme/front-page.php on line 54
+[12-Aug-2020 11:45:58 UTC] PHP Fatal error:  Uncaught Error: Function name must be a string in /home/abdulhadi/Local Sites/eduslack/app/public/wp-content/themes/eduslack-theme/front-page.php:54
+Stack trace:
+#0 /home/abdulhadi/Local Sites/eduslack/app/public/wp-includes/template-loader.php(106): include()
+#1 /home/abdulhadi/Local Sites/eduslack/app/public/wp-blog-header.php(19): require_once('/home/abdulhadi...')
+#2 /home/abdulhadi/Local Sites/eduslack/app/public/index.php(17): require('/home/abdulhadi...')
+#3 {main}
+  thrown in /home/abdulhadi/Local Sites/eduslack/app/public/wp-content/themes/eduslack-theme/front-page.php on line 54
+[12-Aug-2020 11:45:59 UTC] PHP Fatal error:  Uncaught Error: Function name must be a string in /home/abdulhadi/Local Sites/eduslack/app/public/wp-content/themes/eduslack-theme/front-page.php:54
+Stack trace:
+#0 /home/abdulhadi/Local Sites/eduslack/app/public/wp-includes/template-loader.php(106): include()
+#1 /home/abdulhadi/Local Sites/eduslack/app/public/wp-blog-header.php(19): require_once('/home/abdulhadi...')
+#2 /home/abdulhadi/Local Sites/eduslack/app/public/index.php(17): require('/home/abdulhadi...')
+#3 {main}
+  thrown in /home/abdulhadi/Local Sites/eduslack/app/public/wp-content/themes/eduslack-theme/front-page.php on line 54
+[12-Aug-2020 11:46:17 UTC] PHP Fatal error:  Uncaught Error: Function name must be a string in /home/abdulhadi/Local Sites/eduslack/app/public/wp-content/themes/eduslack-theme/front-page.php:54
+Stack trace:
+#0 /home/abdulhadi/Local Sites/eduslack/app/public/wp-includes/template-loader.php(106): include()
+#1 /home/abdulhadi/Local Sites/eduslack/app/public/wp-blog-header.php(19): require_once('/home/abdulhadi...')
+#2 /home/abdulhadi/Local Sites/eduslack/app/public/index.php(17): require('/home/abdulhadi...')
+#3 {main}
+  thrown in /home/abdulhadi/Local Sites/eduslack/app/public/wp-content/themes/eduslack-theme/front-page.php on line 54
+[12-Aug-2020 11:46:18 UTC] PHP Fatal error:  Uncaught Error: Function name must be a string in /home/abdulhadi/Local Sites/eduslack/app/public/wp-content/themes/eduslack-theme/front-page.php:54
+Stack trace:
+#0 /home/abdulhadi/Local Sites/eduslack/app/public/wp-includes/template-loader.php(106): include()
+#1 /home/abdulhadi/Local Sites/eduslack/app/public/wp-blog-header.php(19): require_once('/home/abdulhadi...')
+#2 /home/abdulhadi/Local Sites/eduslack/app/public/index.php(17): require('/home/abdulhadi...')
+#3 {main}
+  thrown in /home/abdulhadi/Local Sites/eduslack/app/public/wp-content/themes/eduslack-theme/front-page.php on line 54
+[12-Aug-2020 11:46:22 UTC] PHP Fatal error:  Uncaught Error: Function name must be a string in /home/abdulhadi/Local Sites/eduslack/app/public/wp-content/themes/eduslack-theme/front-page.php:54
+Stack trace:
+#0 /home/abdulhadi/Local Sites/eduslack/app/public/wp-includes/template-loader.php(106): include()
+#1 /home/abdulhadi/Local Sites/eduslack/app/public/wp-blog-header.php(19): require_once('/home/abdulhadi...')
+#2 /home/abdulhadi/Local Sites/eduslack/app/public/index.php(17): require('/home/abdulhadi...')
+#3 {main}
+  thrown in /home/abdulhadi/Local Sites/eduslack/app/public/wp-content/themes/eduslack-theme/front-page.php on line 54
+[12-Aug-2020 11:46:23 UTC] PHP Fatal error:  Uncaught Error: Function name must be a string in /home/abdulhadi/Local Sites/eduslack/app/public/wp-content/themes/eduslack-theme/front-page.php:54
+Stack trace:
+#0 /home/abdulhadi/Local Sites/eduslack/app/public/wp-includes/template-loader.php(106): include()
+#1 /home/abdulhadi/Local Sites/eduslack/app/public/wp-blog-header.php(19): require_once('/home/abdulhadi...')
+#2 /home/abdulhadi/Local Sites/eduslack/app/public/index.php(17): require('/home/abdulhadi...')
+#3 {main}
+  thrown in /home/abdulhadi/Local Sites/eduslack/app/public/wp-content/themes/eduslack-theme/front-page.php on line 54
